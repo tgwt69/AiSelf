@@ -1,0 +1,302 @@
+# Discord AI Selfbot - 2025 Edition
+# Enhanced .gitignore for security and best practices
+
+# ============================================
+# Sensitive Configuration Files (CRITICAL)
+# ============================================
+config/.env
+.env
+*.env
+.env.local
+.env.production
+.env.development
+
+# Discord tokens and API keys
+token.txt
+discord_token
+api_keys.txt
+secrets.json
+credentials.json
+
+# ============================================
+# Database and Data Files
+# ============================================
+data/
+*.db
+*.sqlite
+*.sqlite3
+selfbot.db
+database.db
+
+# Database backups
+*.db.backup
+*.sql
+*.dump
+
+# ============================================
+# Logs and Error Files
+# ============================================
+logs/
+*.log
+error.log
+selfbot.log
+debug.log
+discord.log
+*.log.*
+
+# Error dumps
+crash_reports/
+error_dumps/
+*.crash
+*.dump
+
+# ============================================
+# Python Environment and Cache
+# ============================================
+# Virtual environments
+bot-env/
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# ============================================
+# IDE and Editor Files
+# ============================================
+# VSCode
+.vscode/
+*.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# ============================================
+# Operating System Files
+# ============================================
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ============================================
+# Application Specific
+# ============================================
+# Configuration backups
+config/*.backup
+config/*.bak
+*.yaml.backup
+*.yml.backup
+
+# User data
+user_data/
+profiles/
+sessions/
+cache/
+tmp/
+temp/
+
+# Message history exports
+message_exports/
+conversation_exports/
+*.csv
+*.json.export
+
+# Screenshot/image cache
+images/
+screenshots/
+attachments/
+media_cache/
+
+# ============================================
+# Development and Testing
+# ============================================
+# Test files
+test_*.py
+tests/
+*_test.py
+test_config.yaml
+test.db
+
+# Development configs
+dev_config.yaml
+debug_config.yaml
+local_config.yaml
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Documentation builds
+docs/_build/
+site/
+
+# ============================================
+# Backup and Archive Files
+# ============================================
+*.bak
+*.backup
+*.old
+*.orig
+*.save
+*.tmp
+*.temp
+
+# Archives
+*.zip
+*.tar.gz
+*.tar.bz2
+*.tar.xz
+*.rar
+*.7z
+
+# ============================================
+# Security and Performance
+# ============================================
+# SSL certificates (if any)
+*.pem
+*.key
+*.crt
+*.cert
+*.p12
+*.pfx
+
+# Memory dumps
+*.dmp
+*.mdmp
+core
+
+# Performance profiling
+*.prof
+*.profile
+
+# ============================================
+# Package Manager Files
+# ============================================
+# npm (if using any Node.js tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Conda
+.conda/
+
+# ============================================
+# Miscellaneous
+# ============================================
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Lock files
+*.lock
+
+# PID files
+*.pid
+
+# Sockets
+*.sock
+
+# Custom patterns (add your own below)
+# ============================================
+
+# Add any additional patterns specific to your setup here
+
