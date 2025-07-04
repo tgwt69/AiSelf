@@ -1,0 +1,1578 @@
+2025-07-02 01:56:35,172 - INFO - Configuration loaded successfully
+2025-07-02 01:56:36,447 - INFO - Database initialized successfully
+2025-07-02 01:56:36,452 - INFO - Configuration loaded successfully
+2025-07-02 01:56:36,560 - INFO - Groq client initialized successfully
+2025-07-02 01:56:36,568 - INFO - OpenAI client initialized successfully
+2025-07-02 01:56:36,569 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 01:56:36,570 - INFO - Starting Discord AI Selfbot...
+2025-07-02 01:56:36,570 - INFO - logging in using static token
+2025-07-02 01:56:36,726 - ERROR - Invalid Discord token
+2025-07-02 01:57:34,355 - INFO - Configuration loaded successfully
+2025-07-02 01:57:34,785 - INFO - Database initialized successfully
+2025-07-02 01:57:34,791 - INFO - Configuration loaded successfully
+2025-07-02 01:57:34,820 - INFO - Groq client initialized successfully
+2025-07-02 01:57:34,828 - INFO - OpenAI client initialized successfully
+2025-07-02 01:57:34,829 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 01:57:34,829 - INFO - Starting Discord AI Selfbot...
+2025-07-02 01:57:34,830 - INFO - logging in using static token
+2025-07-02 01:57:34,996 - ERROR - Invalid Discord token
+2025-07-02 02:03:20,666 - INFO - Configuration loaded successfully
+2025-07-02 02:03:21,342 - INFO - Database initialized successfully
+2025-07-02 02:03:21,347 - INFO - Configuration loaded successfully
+2025-07-02 02:03:21,409 - INFO - Groq client initialized successfully
+2025-07-02 02:03:21,420 - INFO - OpenAI client initialized successfully
+2025-07-02 02:03:21,421 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:03:21,421 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:03:21,422 - INFO - logging in using static token
+2025-07-02 02:03:21,695 - ERROR - Invalid Discord token
+2025-07-02 02:05:19,596 - INFO - Configuration loaded successfully
+2025-07-02 02:05:20,216 - INFO - Database initialized successfully
+2025-07-02 02:05:20,220 - INFO - Configuration loaded successfully
+2025-07-02 02:05:20,267 - INFO - Groq client initialized successfully
+2025-07-02 02:05:20,276 - INFO - OpenAI client initialized successfully
+2025-07-02 02:05:20,277 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:05:20,278 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:05:20,278 - INFO - logging in using static token
+2025-07-02 02:05:20,463 - ERROR - Invalid Discord token
+2025-07-02 02:08:25,466 - INFO - Configuration loaded successfully
+2025-07-02 02:08:26,177 - INFO - Database initialized successfully
+2025-07-02 02:08:26,182 - INFO - Configuration loaded successfully
+2025-07-02 02:08:26,240 - INFO - Groq client initialized successfully
+2025-07-02 02:08:26,250 - INFO - OpenAI client initialized successfully
+2025-07-02 02:08:26,251 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:08:26,252 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:08:26,252 - INFO - logging in using static token
+2025-07-02 02:08:26,408 - ERROR - Invalid Discord token
+2025-07-02 02:08:35,348 - INFO - Configuration loaded successfully
+2025-07-02 02:08:35,797 - INFO - Database initialized successfully
+2025-07-02 02:08:35,803 - INFO - Configuration loaded successfully
+2025-07-02 02:08:35,835 - INFO - Groq client initialized successfully
+2025-07-02 02:08:35,846 - INFO - OpenAI client initialized successfully
+2025-07-02 02:08:35,846 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:08:35,847 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:08:35,847 - INFO - logging in using static token
+2025-07-02 02:08:36,000 - ERROR - Invalid Discord token
+2025-07-02 02:10:09,775 - INFO - Configuration loaded successfully
+2025-07-02 02:10:10,446 - INFO - Database initialized successfully
+2025-07-02 02:10:10,451 - INFO - Configuration loaded successfully
+2025-07-02 02:10:10,507 - INFO - Groq client initialized successfully
+2025-07-02 02:10:10,515 - INFO - OpenAI client initialized successfully
+2025-07-02 02:10:10,516 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:10:10,516 - ERROR - DISCORD_TOKEN not found or not set in environment variables
+2025-07-02 02:11:35,633 - INFO - Configuration loaded successfully
+2025-07-02 02:11:36,079 - INFO - Database initialized successfully
+2025-07-02 02:11:36,084 - INFO - Configuration loaded successfully
+2025-07-02 02:11:36,118 - INFO - Groq client initialized successfully
+2025-07-02 02:11:36,127 - INFO - OpenAI client initialized successfully
+2025-07-02 02:11:36,128 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:11:36,129 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:11:36,129 - INFO - logging in using static token
+2025-07-02 02:11:36,298 - ERROR - Invalid Discord token
+2025-07-02 02:12:17,607 - INFO - Configuration loaded successfully
+2025-07-02 02:12:18,054 - INFO - Database initialized successfully
+2025-07-02 02:12:18,059 - INFO - Configuration loaded successfully
+2025-07-02 02:12:18,093 - INFO - Groq client initialized successfully
+2025-07-02 02:12:18,102 - INFO - OpenAI client initialized successfully
+2025-07-02 02:12:18,103 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:12:18,104 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:12:18,104 - INFO - logging in using static token
+2025-07-02 02:12:18,270 - ERROR - Discord login failed: Improper token has been passed.
+2025-07-02 02:15:02,441 - INFO - Configuration loaded successfully
+2025-07-02 02:15:03,141 - INFO - Database initialized successfully
+2025-07-02 02:15:03,147 - INFO - Configuration loaded successfully
+2025-07-02 02:15:03,206 - INFO - Groq client initialized successfully
+2025-07-02 02:15:03,207 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:15:03,208 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:15:03,208 - INFO - logging in using static token
+2025-07-02 02:15:03,481 - ERROR - Discord login failed: Improper token has been passed.
+2025-07-02 02:19:41,489 - INFO - Configuration loaded successfully
+2025-07-02 02:19:42,163 - INFO - Database initialized successfully
+2025-07-02 02:19:42,169 - INFO - Configuration loaded successfully
+2025-07-02 02:19:42,246 - INFO - Groq client initialized successfully
+2025-07-02 02:19:42,248 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:19:42,250 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:19:42,250 - INFO - logging in using static token
+2025-07-02 02:19:42,496 - ERROR - Discord login failed: Improper token has been passed.
+2025-07-02 02:21:45,794 - INFO - Configuration loaded successfully
+2025-07-02 02:21:45,861 - INFO - Configuration loaded successfully
+2025-07-02 02:21:46,075 - INFO - Configuration loaded successfully
+2025-07-02 02:21:46,319 - INFO - Database initialized successfully
+2025-07-02 02:21:46,326 - INFO - Configuration loaded successfully
+2025-07-02 02:21:46,363 - INFO - Groq client initialized successfully
+2025-07-02 02:21:46,364 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:21:46,365 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:21:46,365 - INFO - logging in using static token
+2025-07-02 02:21:46,373 - INFO - Database initialized successfully
+2025-07-02 02:21:46,378 - INFO - Configuration loaded successfully
+2025-07-02 02:21:46,413 - INFO - Groq client initialized successfully
+2025-07-02 02:21:46,414 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:21:46,415 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:21:46,415 - INFO - logging in using static token
+2025-07-02 02:21:46,547 - ERROR - Discord login failed: Improper token has been passed.
+2025-07-02 02:21:46,549 - INFO - Database initialized successfully
+2025-07-02 02:21:46,554 - INFO - Configuration loaded successfully
+2025-07-02 02:21:46,579 - ERROR - Discord login failed: Improper token has been passed.
+2025-07-02 02:21:46,585 - INFO - Groq client initialized successfully
+2025-07-02 02:21:46,585 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:21:46,586 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:21:46,587 - INFO - logging in using static token
+2025-07-02 02:21:46,756 - ERROR - Discord login failed: Improper token has been passed.
+2025-07-02 02:21:54,717 - INFO - Configuration loaded successfully
+2025-07-02 02:21:55,160 - INFO - Database initialized successfully
+2025-07-02 02:21:55,165 - INFO - Configuration loaded successfully
+2025-07-02 02:21:55,205 - INFO - Groq client initialized successfully
+2025-07-02 02:21:55,206 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:21:55,207 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:21:55,207 - INFO - logging in using static token
+2025-07-02 02:21:55,372 - ERROR - Discord login failed: Improper token has been passed.
+2025-07-02 02:28:12,811 - INFO - Configuration loaded successfully
+2025-07-02 02:28:13,251 - INFO - Database initialized successfully
+2025-07-02 02:28:13,256 - INFO - Configuration loaded successfully
+2025-07-02 02:28:13,288 - INFO - Groq client initialized successfully
+2025-07-02 02:28:13,300 - INFO - OpenAI client initialized successfully
+2025-07-02 02:28:13,300 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:28:13,301 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:28:13,301 - INFO - logging in using static token
+2025-07-02 02:28:13,482 - ERROR - Discord login failed: Improper token has been passed.
+2025-07-02 02:28:53,393 - INFO - Configuration loaded successfully
+2025-07-02 02:28:53,873 - INFO - Database initialized successfully
+2025-07-02 02:28:53,879 - INFO - Configuration loaded successfully
+2025-07-02 02:28:53,920 - INFO - Groq client initialized successfully
+2025-07-02 02:28:53,934 - INFO - OpenAI client initialized successfully
+2025-07-02 02:28:53,936 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-02 02:28:53,936 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:28:53,937 - INFO - logging in using static token
+2025-07-02 02:28:54,132 - ERROR - Discord login failed: Improper token has been passed.
+2025-07-02 02:30:31,744 - INFO - Configuration loaded successfully
+2025-07-02 02:30:32,275 - INFO - Database initialized successfully
+2025-07-02 02:30:32,280 - INFO - Configuration loaded successfully
+2025-07-02 02:30:32,315 - INFO - Groq client initialized successfully
+2025-07-02 02:30:32,326 - INFO - OpenAI client initialized successfully
+2025-07-02 02:30:44,026 - INFO - Configuration loaded successfully
+2025-07-02 02:30:44,441 - INFO - Database initialized successfully
+2025-07-02 02:30:44,446 - INFO - Configuration loaded successfully
+2025-07-02 02:30:44,478 - INFO - Groq client initialized successfully
+2025-07-02 02:30:44,490 - INFO - OpenAI client initialized successfully
+2025-07-02 02:30:44,491 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 02:30:44,491 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:30:44,492 - INFO - Logging in using static token.
+2025-07-02 02:30:44,664 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 02:30:44,887 - INFO - Loaded extension: cogs.commands
+2025-07-02 02:30:44,889 - INFO - Loaded extension: cogs.admin
+2025-07-02 02:30:45,412 - INFO - Connected to Gateway (Session ID: 387ba9b0c1ee5125487c049decca1df0).
+2025-07-02 02:30:54,060 - INFO - Configuration loaded successfully
+2025-07-02 02:30:54,495 - INFO - Database initialized successfully
+2025-07-02 02:30:54,500 - INFO - Configuration loaded successfully
+2025-07-02 02:30:54,530 - INFO - Groq client initialized successfully
+2025-07-02 02:30:54,540 - INFO - OpenAI client initialized successfully
+2025-07-02 02:30:54,541 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 02:30:54,541 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:30:54,542 - INFO - Logging in using static token.
+2025-07-02 02:30:54,643 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 02:30:54,820 - INFO - Loaded extension: cogs.commands
+2025-07-02 02:30:54,822 - INFO - Loaded extension: cogs.admin
+2025-07-02 02:30:55,313 - INFO - Connected to Gateway (Session ID: d0751348c3bdfabb012cb2567505c024).
+2025-07-02 02:31:05,333 - INFO - Health server started on port 5000
+2025-07-02 02:31:05,333 - ERROR - Please set a valid owner_id in config.yaml
+2025-07-02 02:31:28,007 - INFO - Configuration loaded successfully
+2025-07-02 02:31:28,435 - INFO - Database initialized successfully
+2025-07-02 02:31:28,440 - INFO - Configuration loaded successfully
+2025-07-02 02:31:28,472 - INFO - Groq client initialized successfully
+2025-07-02 02:31:28,482 - INFO - OpenAI client initialized successfully
+2025-07-02 02:31:28,483 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 02:31:28,484 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:31:28,484 - INFO - Logging in using static token.
+2025-07-02 02:31:28,697 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 02:31:28,850 - INFO - Loaded extension: cogs.commands
+2025-07-02 02:31:28,852 - INFO - Loaded extension: cogs.admin
+2025-07-02 02:31:29,246 - INFO - Connected to Gateway (Session ID: fa57663b010d2a7a0ce98c09854d706b).
+2025-07-02 02:31:38,195 - INFO - Configuration loaded successfully
+2025-07-02 02:31:38,671 - INFO - Database initialized successfully
+2025-07-02 02:31:38,677 - INFO - Configuration loaded successfully
+2025-07-02 02:31:38,710 - INFO - Groq client initialized successfully
+2025-07-02 02:31:38,722 - INFO - OpenAI client initialized successfully
+2025-07-02 02:31:38,723 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 02:31:38,724 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:31:38,724 - INFO - Logging in using static token.
+2025-07-02 02:31:38,894 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 02:31:39,032 - INFO - Loaded extension: cogs.commands
+2025-07-02 02:31:39,034 - INFO - Loaded extension: cogs.admin
+2025-07-02 02:31:39,378 - INFO - Connected to Gateway (Session ID: e66d025d8da0c74730fd3a4dc1d1f62c).
+2025-07-02 02:31:49,404 - INFO - Health server started on port 5000
+2025-07-02 02:31:49,404 - ERROR - owner_id cannot be the same as the bot account's user ID
+2025-07-02 02:32:05,073 - INFO - Configuration loaded successfully
+2025-07-02 02:32:05,503 - INFO - Database initialized successfully
+2025-07-02 02:32:05,511 - INFO - Configuration loaded successfully
+2025-07-02 02:32:05,548 - INFO - Groq client initialized successfully
+2025-07-02 02:32:05,558 - INFO - OpenAI client initialized successfully
+2025-07-02 02:32:05,560 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 02:32:05,560 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:32:05,561 - INFO - Logging in using static token.
+2025-07-02 02:32:05,720 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 02:32:05,851 - INFO - Loaded extension: cogs.commands
+2025-07-02 02:32:05,854 - INFO - Loaded extension: cogs.admin
+2025-07-02 02:32:06,219 - INFO - Connected to Gateway (Session ID: 8cb0b4675dd0498d59f1f470c57c9b4d).
+2025-07-02 02:32:15,331 - INFO - Configuration loaded successfully
+2025-07-02 02:32:15,759 - INFO - Database initialized successfully
+2025-07-02 02:32:15,764 - INFO - Configuration loaded successfully
+2025-07-02 02:32:15,802 - INFO - Groq client initialized successfully
+2025-07-02 02:32:15,812 - INFO - OpenAI client initialized successfully
+2025-07-02 02:32:15,813 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 02:32:15,814 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:32:15,815 - INFO - Logging in using static token.
+2025-07-02 02:32:15,953 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 02:32:16,191 - INFO - Loaded extension: cogs.commands
+2025-07-02 02:32:16,193 - INFO - Loaded extension: cogs.admin
+2025-07-02 02:32:16,586 - INFO - Connected to Gateway (Session ID: 7e42b9a09fca57ce6a6da070ec3c4d0c).
+2025-07-02 02:32:26,601 - INFO - Health server started on port 5000
+2025-07-02 02:32:26,607 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 02:32:27,186 - INFO - 172.31.128.123 [02/Jul/2025:02:32:27 +0000] "GET / HTTP/1.1" 200 234 "https://392b7884-567f-4744-ae4a-408b1ca0f13c-00-3l20c6ym1naby.janeway.replit.dev/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 17.5.1)"
+2025-07-02 02:32:27,191 - INFO - 172.31.128.123 [02/Jul/2025:02:32:27 +0000] "GET / HTTP/1.1" 200 234 "https://replit.com/" "Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 Replit-Bonsai/2.140.7 (iOS 17.5.1)"
+2025-07-02 02:33:53,805 - INFO - Configuration loaded successfully
+2025-07-02 02:33:54,321 - INFO - Database initialized successfully
+2025-07-02 02:33:54,326 - INFO - Configuration loaded successfully
+2025-07-02 02:33:54,365 - INFO - Groq client initialized successfully
+2025-07-02 02:33:54,373 - INFO - OpenAI client initialized successfully
+2025-07-02 02:33:54,374 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 02:33:54,375 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:33:54,375 - INFO - Logging in using static token.
+2025-07-02 02:33:54,542 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 02:33:54,726 - INFO - Loaded extension: cogs.commands
+2025-07-02 02:33:54,727 - INFO - Loaded extension: cogs.admin
+2025-07-02 02:33:55,057 - INFO - Connected to Gateway (Session ID: e1b9c9a99793355ba842c74b51a67538).
+2025-07-02 02:34:05,075 - INFO - Health server started on port 5000
+2025-07-02 02:34:05,077 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 02:34:07,293 - INFO - 172.31.128.123 [02/Jul/2025:02:34:07 +0000] "GET / HTTP/1.1" 200 234 "https://392b7884-567f-4744-ae4a-408b1ca0f13c-00-3l20c6ym1naby.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar8h%3A" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-07-02 02:37:46,220 - INFO - Added channel 1353451411664408650 to active channels
+2025-07-02 02:37:56,812 - INFO - Configuration loaded successfully
+2025-07-02 02:37:56,813 - ERROR - Error in help command: Messageable.send() got an unexpected keyword argument 'embed'
+2025-07-02 02:37:57,153 - ERROR - Error in webhook_log function: object bool can't be used in 'await' expression
+2025-07-02 02:38:39,143 - INFO - AI instructions loaded successfully
+2025-07-02 02:38:39,724 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:38:39,726 - WARNING - Groq API error (attempt 1): 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:38:41,115 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:38:41,116 - WARNING - Groq API error (attempt 2): 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:38:42,508 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:38:42,510 - ERROR - Groq API error after 3 attempts: 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:38:42,510 - ERROR - Error in generate_response_groq: Groq API error: 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:38:42,559 - ERROR - Error in generate_response: object bool can't be used in 'await' expression
+2025-07-02 02:38:42,571 - ERROR - Error in generate_response_and_reply: object bool can't be used in 'await' expression
+2025-07-02 02:38:42,582 - ERROR - Error in webhook_log function: object bool can't be used in 'await' expression
+2025-07-02 02:39:37,765 - INFO - AI instructions loaded successfully
+2025-07-02 02:39:38,219 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:39:38,220 - WARNING - Groq API error (attempt 1): 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:39:39,634 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:39:39,635 - WARNING - Groq API error (attempt 2): 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:39:41,073 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:39:41,074 - ERROR - Groq API error after 3 attempts: 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:39:41,075 - ERROR - Error in generate_response_groq: Groq API error: 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:39:41,123 - ERROR - Error in generate_response: object bool can't be used in 'await' expression
+2025-07-02 02:39:41,134 - ERROR - Error in generate_response_and_reply: object bool can't be used in 'await' expression
+2025-07-02 02:39:41,159 - ERROR - Error in webhook_log function: object bool can't be used in 'await' expression
+2025-07-02 02:39:54,949 - INFO - AI instructions loaded successfully
+2025-07-02 02:39:55,346 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:39:55,347 - WARNING - Groq API error (attempt 1): 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:39:56,744 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:39:56,746 - WARNING - Groq API error (attempt 2): 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:39:58,051 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:39:58,052 - ERROR - Groq API error after 3 attempts: 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:39:58,052 - ERROR - Error in generate_response_groq: Groq API error: 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:39:58,113 - ERROR - Error in generate_response: object bool can't be used in 'await' expression
+2025-07-02 02:39:58,124 - ERROR - Error in generate_response_and_reply: object bool can't be used in 'await' expression
+2025-07-02 02:39:58,162 - ERROR - Error in webhook_log function: object bool can't be used in 'await' expression
+2025-07-02 02:40:39,970 - INFO - AI instructions loaded successfully
+2025-07-02 02:40:40,415 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:40:40,416 - WARNING - Groq API error (attempt 1): 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:40:41,793 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:40:41,794 - WARNING - Groq API error (attempt 2): 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:40:43,196 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:40:43,198 - ERROR - Groq API error after 3 attempts: 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:40:43,198 - ERROR - Error in generate_response_groq: Groq API error: 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:40:43,235 - ERROR - Error in generate_response: object bool can't be used in 'await' expression
+2025-07-02 02:40:43,247 - ERROR - Error in generate_response_and_reply: object bool can't be used in 'await' expression
+2025-07-02 02:40:43,261 - ERROR - Error in webhook_log function: object bool can't be used in 'await' expression
+2025-07-02 02:41:24,960 - INFO - AI instructions loaded successfully
+2025-07-02 02:41:25,368 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:41:25,370 - WARNING - Groq API error (attempt 1): 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:41:26,698 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:41:26,700 - WARNING - Groq API error (attempt 2): 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:41:28,114 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:41:28,115 - ERROR - Groq API error after 3 attempts: 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:41:28,115 - ERROR - Error in generate_response_groq: Groq API error: 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:41:28,173 - ERROR - Error in generate_response: object bool can't be used in 'await' expression
+2025-07-02 02:41:28,184 - ERROR - Error in generate_response_and_reply: object bool can't be used in 'await' expression
+2025-07-02 02:41:28,196 - ERROR - Error in webhook_log function: object bool can't be used in 'await' expression
+2025-07-02 02:42:16,596 - INFO - 172.31.128.123 [02/Jul/2025:02:42:16 +0000] "GET / HTTP/1.1" 200 234 "https://392b7884-567f-4744-ae4a-408b1ca0f13c-00-3l20c6ym1naby.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arcu%3A" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-07-02 02:44:30,987 - INFO - Configuration loaded successfully
+2025-07-02 02:44:31,854 - INFO - Database initialized successfully
+2025-07-02 02:44:31,858 - INFO - Configuration loaded successfully
+2025-07-02 02:44:31,914 - INFO - Groq client initialized successfully
+2025-07-02 02:44:31,924 - INFO - OpenAI client initialized successfully
+2025-07-02 02:44:31,924 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 02:44:31,925 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:44:31,925 - INFO - Logging in using static token.
+2025-07-02 02:44:32,083 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 02:44:32,252 - INFO - Loaded extension: cogs.commands
+2025-07-02 02:44:32,254 - INFO - Loaded extension: cogs.admin
+2025-07-02 02:44:32,639 - INFO - Connected to Gateway (Session ID: 7d8d9dc73acdb0fba1af130e98ab2485).
+2025-07-02 02:44:42,652 - INFO - Health server started on port 5000
+2025-07-02 02:44:42,655 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 02:44:44,490 - INFO - 172.31.128.14 [02/Jul/2025:02:44:44 +0000] "GET / HTTP/1.1" 200 234 "https://3952ba8e-17ff-42a8-aab3-eda34aa76aa7-00-1mkg02appk53a.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Ar4n%3A" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-07-02 02:45:10,245 - INFO - Removed channel 1353451411664408650 from active channels
+2025-07-02 02:48:34,971 - INFO - Configuration loaded successfully
+2025-07-02 02:48:35,373 - INFO - Database initialized successfully
+2025-07-02 02:48:35,377 - INFO - Configuration loaded successfully
+2025-07-02 02:48:35,400 - INFO - Groq client initialized successfully
+2025-07-02 02:48:35,408 - INFO - OpenAI client initialized successfully
+2025-07-02 02:48:35,408 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 02:48:35,409 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:48:35,409 - INFO - Logging in using static token.
+2025-07-02 02:48:35,583 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 02:48:35,824 - INFO - Loaded extension: cogs.commands
+2025-07-02 02:48:35,826 - INFO - Loaded extension: cogs.admin
+2025-07-02 02:48:36,238 - INFO - Connected to Gateway (Session ID: d8473f66c79a86bb827a3ecddce08911).
+2025-07-02 02:48:45,117 - INFO - Configuration loaded successfully
+2025-07-02 02:48:45,511 - INFO - Database initialized successfully
+2025-07-02 02:48:45,516 - INFO - Configuration loaded successfully
+2025-07-02 02:48:45,543 - INFO - Groq client initialized successfully
+2025-07-02 02:48:45,551 - INFO - OpenAI client initialized successfully
+2025-07-02 02:48:45,551 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 02:48:45,552 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:48:45,552 - INFO - Logging in using static token.
+2025-07-02 02:48:45,655 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 02:48:45,823 - INFO - Loaded extension: cogs.commands
+2025-07-02 02:48:45,825 - INFO - Loaded extension: cogs.admin
+2025-07-02 02:48:46,278 - INFO - Connected to Gateway (Session ID: 200da1db3c6c70d5b8ad6142ce6f29d0).
+2025-07-02 02:48:56,293 - INFO - Health server started on port 5000
+2025-07-02 02:48:56,296 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 02:48:58,114 - INFO - 172.31.128.14 [02/Jul/2025:02:48:58 +0000] "GET / HTTP/1.1" 200 234 "https://3952ba8e-17ff-42a8-aab3-eda34aa76aa7-00-1mkg02appk53a.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arcg%3A" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-07-02 02:50:06,543 - INFO - Added channel 1353451411664408650 to active channels
+2025-07-02 02:50:35,400 - INFO - AI instructions loaded successfully
+2025-07-02 02:50:35,978 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:50:35,981 - WARNING - Groq API error (attempt 1): 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:50:37,369 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:50:37,371 - WARNING - Groq API error (attempt 2): 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:50:38,771 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:50:38,772 - ERROR - Groq API error after 3 attempts: 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:50:38,772 - ERROR - Error in generate_response_groq: Groq API error: 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:50:38,830 - ERROR - Error in generate_response: object bool can't be used in 'await' expression
+2025-07-02 02:50:38,849 - ERROR - Error in generate_response_and_reply: object bool can't be used in 'await' expression
+2025-07-02 02:50:38,862 - ERROR - Error in webhook_log function: object bool can't be used in 'await' expression
+2025-07-02 02:50:59,259 - ERROR - Error in status command: Messageable.send() got an unexpected keyword argument 'embed'
+2025-07-02 02:50:59,319 - ERROR - Error in webhook_log function: object bool can't be used in 'await' expression
+2025-07-02 02:51:29,075 - INFO - AI instructions loaded successfully
+2025-07-02 02:51:29,430 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:51:29,431 - WARNING - Groq API error (attempt 1): 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:51:30,745 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:51:30,747 - WARNING - Groq API error (attempt 2): 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:51:32,093 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:51:32,094 - ERROR - Groq API error after 3 attempts: 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:51:32,095 - ERROR - Error in generate_response_groq: Groq API error: 'CompletionUsage' object has no attribute 'get'
+2025-07-02 02:51:32,142 - ERROR - Error in generate_response: object bool can't be used in 'await' expression
+2025-07-02 02:51:32,155 - ERROR - Error in generate_response_and_reply: object bool can't be used in 'await' expression
+2025-07-02 02:51:32,167 - ERROR - Error in webhook_log function: object bool can't be used in 'await' expression
+2025-07-02 02:54:20,499 - INFO - Configuration loaded successfully
+2025-07-02 02:54:20,965 - INFO - Database initialized successfully
+2025-07-02 02:54:20,969 - INFO - Configuration loaded successfully
+2025-07-02 02:54:20,994 - INFO - Groq client initialized successfully
+2025-07-02 02:54:21,001 - INFO - OpenAI client initialized successfully
+2025-07-02 02:54:21,002 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 02:54:21,002 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:54:21,002 - INFO - Logging in using static token.
+2025-07-02 02:54:21,167 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 02:54:21,322 - INFO - Loaded extension: cogs.commands
+2025-07-02 02:54:21,324 - INFO - Loaded extension: cogs.admin
+2025-07-02 02:54:21,697 - INFO - Connected to Gateway (Session ID: 4efe353a837ff93825a9f48f5bc9478b).
+2025-07-02 02:54:30,558 - INFO - Configuration loaded successfully
+2025-07-02 02:54:30,980 - INFO - Database initialized successfully
+2025-07-02 02:54:30,985 - INFO - Configuration loaded successfully
+2025-07-02 02:54:31,009 - INFO - Groq client initialized successfully
+2025-07-02 02:54:31,017 - INFO - OpenAI client initialized successfully
+2025-07-02 02:54:31,018 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 02:54:31,019 - INFO - Starting Discord AI Selfbot...
+2025-07-02 02:54:31,019 - INFO - Logging in using static token.
+2025-07-02 02:54:31,243 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 02:54:31,389 - INFO - Loaded extension: cogs.commands
+2025-07-02 02:54:31,391 - INFO - Loaded extension: cogs.admin
+2025-07-02 02:54:31,713 - INFO - Connected to Gateway (Session ID: f15a28545052422685420f56b170c8d0).
+2025-07-02 02:54:41,733 - INFO - Health server started on port 5000
+2025-07-02 02:54:41,736 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 02:54:44,935 - INFO - 172.31.128.14 [02/Jul/2025:02:54:44 +0000] "GET / HTTP/1.1" 200 234 "https://3952ba8e-17ff-42a8-aab3-eda34aa76aa7-00-1mkg02appk53a.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arec%3A" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-07-02 02:56:04,468 - INFO - Removed channel 1353451411664408650 from active channels
+2025-07-02 02:56:15,245 - INFO - Added channel 1353451411664408650 to active channels
+2025-07-02 02:56:40,752 - INFO - AI instructions loaded successfully
+2025-07-02 02:56:41,191 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:56:41,197 - INFO - Groq response generated using 229 tokens
+2025-07-02 02:56:41,199 - INFO - Groq response generated in 0.45s
+2025-07-02 02:56:41,200 - INFO - [02:56:41] alliepumz: Yo
+2025-07-02 02:56:41,201 - INFO - [02:56:41] Responding to alliepumz: What's up? 😊
+2025-07-02 02:57:26,706 - INFO - AI instructions loaded successfully
+2025-07-02 02:57:27,146 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:57:27,148 - INFO - Groq response generated using 250 tokens
+2025-07-02 02:57:27,148 - INFO - Groq response generated in 0.44s
+2025-07-02 02:57:27,148 - INFO - [02:57:27] alliepumz: You good
+2025-07-02 02:57:27,148 - INFO - [02:57:27] Responding to alliepumz: yeah, all good 😊! what's up with you?
+2025-07-02 02:57:56,895 - INFO - AI instructions loaded successfully
+2025-07-02 02:57:57,379 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 02:57:57,381 - INFO - Groq response generated using 256 tokens
+2025-07-02 02:57:57,381 - INFO - Groq response generated in 0.49s
+2025-07-02 02:57:57,381 - INFO - [02:57:57] alliepumz: Im hungry
+2025-07-02 02:57:57,381 - INFO - [02:57:57] Responding to alliepumz: what you craving? 🍔🍕🥤
+2025-07-02 03:00:01,493 - INFO - AI instructions loaded successfully
+2025-07-02 03:00:01,953 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:00:01,954 - INFO - Groq response generated using 265 tokens
+2025-07-02 03:00:01,954 - INFO - Groq response generated in 0.46s
+2025-07-02 03:00:01,954 - INFO - [03:00:01] alliepumz: Pizza
+2025-07-02 03:00:01,954 - INFO - [03:00:01] Responding to alliepumz: what's your go to order
+2025-07-02 03:00:26,963 - INFO - AI instructions loaded successfully
+2025-07-02 03:00:27,354 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:00:27,356 - INFO - Groq response generated using 274 tokens
+2025-07-02 03:00:27,356 - INFO - Groq response generated in 0.39s
+2025-07-02 03:00:27,356 - INFO - [03:00:27] alliepumz: Idk
+2025-07-02 03:00:27,356 - INFO - [03:00:27] Responding to alliepumz: whats on your mind then?
+2025-07-02 03:00:58,016 - INFO - AI instructions loaded successfully
+2025-07-02 03:00:58,478 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:00:58,479 - INFO - Groq response generated using 294 tokens
+2025-07-02 03:00:58,479 - INFO - Groq response generated in 0.46s
+2025-07-02 03:00:58,479 - INFO - [03:00:58] alliepumz: Are u an ai
+2025-07-02 03:00:58,479 - INFO - [03:00:58] Responding to alliepumz: yeah i am, u asked if i was ​ earlier and i didnt say anything
+2025-07-02 03:01:34,652 - INFO - AI instructions loaded successfully
+2025-07-02 03:01:35,040 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:01:35,041 - INFO - Groq response generated using 294 tokens
+2025-07-02 03:01:35,041 - INFO - Groq response generated in 0.39s
+2025-07-02 03:01:35,041 - INFO - [03:01:35] alliepumz: Who made u
+2025-07-02 03:01:35,041 - INFO - [03:01:35] Responding to alliepumz: i don't really know, didn't ask
+2025-07-02 03:02:16,307 - INFO - AI instructions loaded successfully
+2025-07-02 03:02:16,756 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:02:16,757 - INFO - Groq response generated using 317 tokens
+2025-07-02 03:02:16,757 - INFO - Groq response generated in 0.45s
+2025-07-02 03:02:16,757 - INFO - [03:02:16] alliepumz: Who's the first president of Mexico
+2025-07-02 03:02:16,757 - INFO - [03:02:16] Responding to alliepumz: that's a good question, i think it was guadalupe victoria
+2025-07-02 03:04:57,956 - INFO - Configuration loaded successfully
+2025-07-02 03:04:58,647 - INFO - Database initialized successfully
+2025-07-02 03:04:58,651 - INFO - Configuration loaded successfully
+2025-07-02 03:04:58,700 - INFO - Groq client initialized successfully
+2025-07-02 03:04:58,711 - INFO - OpenAI client initialized successfully
+2025-07-02 03:04:58,712 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:04:58,713 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:04:58,713 - INFO - Logging in using static token.
+2025-07-02 03:04:58,993 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:04:59,166 - INFO - Loaded extension: cogs.commands
+2025-07-02 03:04:59,168 - INFO - Loaded extension: cogs.admin
+2025-07-02 03:04:59,484 - INFO - Connected to Gateway (Session ID: 098283f35ac4a234a9e51e4a0275ea39).
+2025-07-02 03:05:01,583 - INFO - Gateway session has been invalidated.
+2025-07-02 03:05:01,746 - ERROR - Critical error: WebSocket closed with 4004
+2025-07-02 03:05:10,857 - INFO - Configuration loaded successfully
+2025-07-02 03:05:11,278 - INFO - Database initialized successfully
+2025-07-02 03:05:11,284 - INFO - Configuration loaded successfully
+2025-07-02 03:05:11,314 - INFO - Groq client initialized successfully
+2025-07-02 03:05:11,324 - INFO - OpenAI client initialized successfully
+2025-07-02 03:05:11,324 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:05:11,325 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:05:11,325 - INFO - Logging in using static token.
+2025-07-02 03:05:11,518 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:05:11,712 - ERROR - Discord login failed: Improper token has been passed
+2025-07-02 03:11:04,781 - INFO - Configuration loaded successfully
+2025-07-02 03:11:05,492 - INFO - Database initialized successfully
+2025-07-02 03:11:05,500 - INFO - Configuration loaded successfully
+2025-07-02 03:11:05,584 - INFO - Groq client initialized successfully
+2025-07-02 03:11:05,595 - INFO - OpenAI client initialized successfully
+2025-07-02 03:11:05,595 - INFO - Starting in 5.1s to avoid detection...
+2025-07-02 03:11:10,708 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:11:10,709 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:11:10,710 - INFO - Logging in using static token.
+2025-07-02 03:11:10,881 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:11:11,026 - ERROR - Discord login failed: Improper token has been passed
+2025-07-02 03:15:31,761 - INFO - Configuration loaded successfully
+2025-07-02 03:15:32,225 - INFO - Database initialized successfully
+2025-07-02 03:15:32,231 - INFO - Configuration loaded successfully
+2025-07-02 03:15:32,259 - INFO - Groq client initialized successfully
+2025-07-02 03:15:32,268 - INFO - OpenAI client initialized successfully
+2025-07-02 03:15:32,269 - INFO - Starting in 6.3s to avoid detection...
+2025-07-02 03:15:38,579 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:15:38,579 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:15:38,580 - INFO - Logging in using static token.
+2025-07-02 03:15:38,853 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:15:39,036 - INFO - Loaded extension: cogs.commands
+2025-07-02 03:15:39,039 - INFO - Loaded extension: cogs.admin
+2025-07-02 03:15:39,460 - INFO - Connected to Gateway (Session ID: f8a751532ac112b4c0c26d6acdf2b57c).
+2025-07-02 03:15:49,482 - INFO - Health server started on port 5000
+2025-07-02 03:15:49,491 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 03:15:51,079 - INFO - 172.31.128.14 [02/Jul/2025:03:15:51 +0000] "GET / HTTP/1.1" 200 234 "https://3952ba8e-17ff-42a8-aab3-eda34aa76aa7-00-1mkg02appk53a.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arl2%3A" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-07-02 03:16:26,374 - INFO - Added channel 1357743091691421930 to active channels
+2025-07-02 03:17:27,308 - INFO - Added channel 1362833666815955134 to active channels
+2025-07-02 03:19:21,809 - INFO - AI instructions loaded successfully
+2025-07-02 03:19:32,267 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 500 Internal Server Error"
+2025-07-02 03:19:32,267 - INFO - Retrying request to /openai/v1/chat/completions in 0.384473 seconds
+2025-07-02 03:19:32,955 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:19:32,959 - INFO - Groq response generated using 239 tokens
+2025-07-02 03:19:32,959 - INFO - Groq response generated in 11.15s
+2025-07-02 03:19:32,960 - INFO - [03:19:32] alliepumz: Hey
+2025-07-02 03:19:32,961 - INFO - [03:19:32] Responding to alliepumz: hey, what's up?
+2025-07-02 03:19:54,069 - INFO - AI instructions loaded successfully
+2025-07-02 03:19:54,433 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:19:54,434 - INFO - Groq response generated using 249 tokens
+2025-07-02 03:19:54,434 - INFO - Groq response generated in 0.37s
+2025-07-02 03:19:54,434 - INFO - [03:19:54] alliepumz: Hallo
+2025-07-02 03:19:54,435 - INFO - [03:19:54] Responding to alliepumz: so what's up
+2025-07-02 03:20:47,606 - INFO - AI instructions loaded successfully
+2025-07-02 03:20:47,987 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:20:47,988 - INFO - Groq response generated using 255 tokens
+2025-07-02 03:20:47,988 - INFO - Groq response generated in 0.38s
+2025-07-02 03:20:47,989 - INFO - [03:20:47] alliepumz: Uh
+2025-07-02 03:20:47,989 - INFO - [03:20:47] Responding to alliepumz: lol what's up
+2025-07-02 03:21:16,638 - INFO - AI instructions loaded successfully
+2025-07-02 03:21:17,008 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:21:17,009 - INFO - Groq response generated using 260 tokens
+2025-07-02 03:21:17,009 - INFO - Groq response generated in 0.37s
+2025-07-02 03:21:17,010 - INFO - [03:21:17] alliepumz: Bro
+2025-07-02 03:21:17,010 - INFO - [03:21:17] Responding to alliepumz: what's up
+2025-07-02 03:21:47,633 - INFO - AI instructions loaded successfully
+2025-07-02 03:21:47,981 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:21:47,982 - INFO - Groq response generated using 267 tokens
+2025-07-02 03:21:47,983 - INFO - Groq response generated in 0.35s
+2025-07-02 03:21:47,983 - INFO - [03:21:47] alliepumz: Ok
+2025-07-02 03:21:47,983 - INFO - [03:21:47] Responding to alliepumz: so what's up
+2025-07-02 03:23:31,207 - INFO - Configuration loaded successfully
+2025-07-02 03:23:31,843 - INFO - Database initialized successfully
+2025-07-02 03:23:31,848 - INFO - Configuration loaded successfully
+2025-07-02 03:23:31,898 - INFO - Groq client initialized successfully
+2025-07-02 03:23:31,906 - INFO - OpenAI client initialized successfully
+2025-07-02 03:23:31,906 - INFO - Starting in 4.3s to avoid detection...
+2025-07-02 03:23:36,191 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:23:36,191 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:23:36,192 - INFO - Logging in using static token.
+2025-07-02 03:23:36,358 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:23:36,526 - INFO - Loaded extension: cogs.commands
+2025-07-02 03:23:36,531 - INFO - Loaded extension: cogs.admin
+2025-07-02 03:23:36,951 - INFO - Connected to Gateway (Session ID: 00b7e8efd2f32bb0f5cd13f9ee8812ec).
+2025-07-02 03:23:41,007 - INFO - Configuration loaded successfully
+2025-07-02 03:23:41,486 - INFO - Database initialized successfully
+2025-07-02 03:23:41,492 - INFO - Configuration loaded successfully
+2025-07-02 03:23:41,523 - INFO - Groq client initialized successfully
+2025-07-02 03:23:41,532 - INFO - OpenAI client initialized successfully
+2025-07-02 03:23:41,532 - INFO - Starting in 4.2s to avoid detection...
+2025-07-02 03:23:45,708 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:23:45,710 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:23:45,711 - INFO - Logging in using static token.
+2025-07-02 03:23:45,886 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:23:46,033 - INFO - Loaded extension: cogs.commands
+2025-07-02 03:23:46,035 - INFO - Loaded extension: cogs.admin
+2025-07-02 03:23:46,427 - INFO - Connected to Gateway (Session ID: 97715b97f49ba336beb23ff280eef2aa).
+2025-07-02 03:23:56,450 - INFO - Health server started on port 5000
+2025-07-02 03:23:56,453 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 03:24:14,724 - INFO - 172.31.128.14 [02/Jul/2025:03:24:14 +0000] "GET / HTTP/1.1" 200 234 "https://3952ba8e-17ff-42a8-aab3-eda34aa76aa7-00-1mkg02appk53a.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arms%3A" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-07-02 03:25:46,393 - INFO - AI instructions loaded successfully
+2025-07-02 03:25:46,859 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:25:46,862 - INFO - Groq response generated using 337 tokens
+2025-07-02 03:25:46,862 - INFO - Groq response generated in 0.47s
+2025-07-02 03:25:46,862 - INFO - [03:25:46] alliepumz: Sybau
+2025-07-02 03:25:46,862 - INFO - [03:25:46] Responding to alliepumz: sybau who? never heard of it, what is it?
+2025-07-02 03:27:05,751 - INFO - Configuration loaded successfully
+2025-07-02 03:27:06,165 - INFO - Database initialized successfully
+2025-07-02 03:27:06,169 - INFO - Configuration loaded successfully
+2025-07-02 03:27:06,193 - INFO - Groq client initialized successfully
+2025-07-02 03:27:06,200 - INFO - OpenAI client initialized successfully
+2025-07-02 03:27:06,201 - INFO - Starting in 7.2s to avoid detection...
+2025-07-02 03:27:15,827 - INFO - Configuration loaded successfully
+2025-07-02 03:27:16,230 - INFO - Database initialized successfully
+2025-07-02 03:27:16,234 - INFO - Configuration loaded successfully
+2025-07-02 03:27:16,261 - INFO - Groq client initialized successfully
+2025-07-02 03:27:16,269 - INFO - OpenAI client initialized successfully
+2025-07-02 03:27:16,270 - INFO - Starting in 7.3s to avoid detection...
+2025-07-02 03:27:23,597 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:27:23,597 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:27:23,598 - INFO - Logging in using static token.
+2025-07-02 03:27:23,782 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:27:24,032 - INFO - Loaded extension: cogs.commands
+2025-07-02 03:27:24,034 - INFO - Loaded extension: cogs.admin
+2025-07-02 03:27:24,376 - INFO - Connected to Gateway (Session ID: a88706daae7dd4a0cc6e3fd61fd8a679).
+2025-07-02 03:27:55,826 - INFO - Configuration loaded successfully
+2025-07-02 03:27:56,273 - INFO - Database initialized successfully
+2025-07-02 03:27:56,278 - INFO - Configuration loaded successfully
+2025-07-02 03:27:56,302 - INFO - Groq client initialized successfully
+2025-07-02 03:27:56,311 - INFO - OpenAI client initialized successfully
+2025-07-02 03:27:56,311 - INFO - Starting in 5.6s to avoid detection...
+2025-07-02 03:28:01,903 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:28:01,904 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:28:01,904 - INFO - Logging in using static token.
+2025-07-02 03:28:02,056 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:28:02,236 - INFO - Loaded extension: cogs.commands
+2025-07-02 03:28:02,238 - INFO - Loaded extension: cogs.admin
+2025-07-02 03:28:06,000 - INFO - Configuration loaded successfully
+2025-07-02 03:28:06,423 - INFO - Database initialized successfully
+2025-07-02 03:28:06,429 - INFO - Configuration loaded successfully
+2025-07-02 03:28:06,454 - INFO - Groq client initialized successfully
+2025-07-02 03:28:06,461 - INFO - OpenAI client initialized successfully
+2025-07-02 03:28:06,462 - INFO - Starting in 4.0s to avoid detection...
+2025-07-02 03:28:10,444 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:28:10,446 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:28:10,447 - INFO - Logging in using static token.
+2025-07-02 03:28:10,615 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:28:10,851 - INFO - Loaded extension: cogs.commands
+2025-07-02 03:28:10,853 - INFO - Loaded extension: cogs.admin
+2025-07-02 03:28:11,188 - INFO - Connected to Gateway (Session ID: 6857b6f9702664fce33a35db9f95ea7c).
+2025-07-02 03:28:21,208 - INFO - Health server started on port 5000
+2025-07-02 03:28:21,210 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 03:28:21,212 - INFO - Health server started on port 5000
+2025-07-02 03:28:23,215 - INFO - 172.31.128.14 [02/Jul/2025:03:28:23 +0000] "GET / HTTP/1.1" 200 234 "https://3952ba8e-17ff-42a8-aab3-eda34aa76aa7-00-1mkg02appk53a.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arpg%3A" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-07-02 03:31:03,105 - INFO - AI instructions loaded successfully
+2025-07-02 03:31:03,547 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:31:03,551 - INFO - Groq response generated using 496 tokens
+2025-07-02 03:31:03,551 - INFO - Groq response generated in 0.45s
+2025-07-02 03:31:03,552 - INFO - [03:31:03] alliepumz: So tuff
+2025-07-02 03:31:03,553 - INFO - [03:31:03] Responding to alliepumz: yeah tell me about it
+2025-07-02 03:32:00,743 - INFO - AI instructions loaded successfully
+2025-07-02 03:32:01,176 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:32:01,177 - INFO - Groq response generated using 537 tokens
+2025-07-02 03:32:01,177 - INFO - Groq response generated in 0.43s
+2025-07-02 03:32:01,177 - INFO - [03:32:01] alliepumz: Oi
+2025-07-02 03:32:01,178 - INFO - [03:32:01] Responding to alliepumz: hey
+2025-07-02 03:32:19,213 - INFO - AI instructions loaded successfully
+2025-07-02 03:32:19,744 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:32:19,745 - INFO - Groq response generated using 571 tokens
+2025-07-02 03:32:19,745 - INFO - Groq response generated in 0.53s
+2025-07-02 03:32:19,745 - INFO - [03:32:19] alliepumz: Srsly
+2025-07-02 03:32:19,745 - INFO - [03:32:19] Responding to alliepumz: lol what's goin on
+2025-07-02 03:35:25,989 - INFO - Configuration loaded successfully
+2025-07-02 03:35:26,422 - INFO - Database initialized successfully
+2025-07-02 03:35:26,427 - INFO - Configuration loaded successfully
+2025-07-02 03:35:26,455 - INFO - Groq client initialized successfully
+2025-07-02 03:35:26,464 - INFO - OpenAI client initialized successfully
+2025-07-02 03:35:26,464 - INFO - Starting in 4.0s to avoid detection...
+2025-07-02 03:35:30,423 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:35:30,424 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:35:30,425 - INFO - Logging in using static token.
+2025-07-02 03:35:30,674 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:35:30,841 - INFO - Loaded extension: cogs.commands
+2025-07-02 03:35:30,845 - INFO - Loaded extension: cogs.admin
+2025-07-02 03:35:31,164 - INFO - Connected to Gateway (Session ID: 5fa81ca9ceb436ffd45647dd753d141f).
+2025-07-02 03:35:36,074 - INFO - Configuration loaded successfully
+2025-07-02 03:35:36,485 - INFO - Database initialized successfully
+2025-07-02 03:35:36,491 - INFO - Configuration loaded successfully
+2025-07-02 03:35:36,516 - INFO - Groq client initialized successfully
+2025-07-02 03:35:36,525 - INFO - OpenAI client initialized successfully
+2025-07-02 03:35:36,525 - INFO - Starting in 4.8s to avoid detection...
+2025-07-02 03:35:41,309 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:35:41,310 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:35:41,311 - INFO - Logging in using static token.
+2025-07-02 03:35:41,462 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:35:41,668 - INFO - Loaded extension: cogs.commands
+2025-07-02 03:35:41,671 - INFO - Loaded extension: cogs.admin
+2025-07-02 03:35:42,082 - INFO - Connected to Gateway (Session ID: c1adc783f704c5de3241045cb6e46811).
+2025-07-02 03:35:52,112 - INFO - Health server started on port 5000
+2025-07-02 03:35:52,116 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 03:35:52,117 - INFO - Health server started on port 5000
+2025-07-02 03:35:56,394 - INFO - 172.31.128.14 [02/Jul/2025:03:35:56 +0000] "GET / HTTP/1.1" 200 234 "https://3952ba8e-17ff-42a8-aab3-eda34aa76aa7-00-1mkg02appk53a.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Arrh%3A" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-07-02 03:37:05,421 - INFO - Configuration loaded successfully
+2025-07-02 03:37:06,022 - INFO - Database initialized successfully
+2025-07-02 03:37:06,026 - INFO - Configuration loaded successfully
+2025-07-02 03:37:06,057 - INFO - Groq client initialized successfully
+2025-07-02 03:37:06,065 - INFO - OpenAI client initialized successfully
+2025-07-02 03:37:06,066 - INFO - Starting in 7.6s to avoid detection...
+2025-07-02 03:37:15,236 - INFO - Configuration loaded successfully
+2025-07-02 03:37:15,662 - INFO - Database initialized successfully
+2025-07-02 03:37:15,667 - INFO - Configuration loaded successfully
+2025-07-02 03:37:15,693 - INFO - Groq client initialized successfully
+2025-07-02 03:37:15,701 - INFO - OpenAI client initialized successfully
+2025-07-02 03:37:15,702 - INFO - Starting in 4.4s to avoid detection...
+2025-07-02 03:37:20,109 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:37:20,112 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:37:20,112 - INFO - Logging in using static token.
+2025-07-02 03:37:20,282 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:37:20,431 - INFO - Loaded extension: cogs.commands
+2025-07-02 03:37:20,433 - INFO - Loaded extension: cogs.admin
+2025-07-02 03:37:20,817 - INFO - Connected to Gateway (Session ID: 7d68946a11ea20f031b18ceca070ad2d).
+2025-07-02 03:37:30,846 - INFO - Health server started on port 5000
+2025-07-02 03:37:30,852 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 03:37:30,854 - INFO - Health server started on port 5000
+2025-07-02 03:37:33,581 - INFO - 172.31.128.14 [02/Jul/2025:03:37:33 +0000] "GET / HTTP/1.1" 200 234 "https://3952ba8e-17ff-42a8-aab3-eda34aa76aa7-00-1mkg02appk53a.janeway.replit.dev/__replco/workspace_iframe.html?initialPath=%2F&id=%3Art8%3A" "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36"
+2025-07-02 03:38:07,809 - INFO - Configuration loaded successfully
+2025-07-02 03:38:08,270 - INFO - Database initialized successfully
+2025-07-02 03:38:08,275 - INFO - Configuration loaded successfully
+2025-07-02 03:38:08,312 - INFO - Groq client initialized successfully
+2025-07-02 03:38:08,323 - INFO - OpenAI client initialized successfully
+2025-07-02 03:38:08,323 - INFO - Starting in 5.3s to avoid detection...
+2025-07-02 03:38:13,592 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:38:13,594 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:38:13,594 - INFO - Logging in using static token.
+2025-07-02 03:38:13,780 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:38:14,052 - INFO - Loaded extension: cogs.commands
+2025-07-02 03:38:14,054 - INFO - Loaded extension: cogs.admin
+2025-07-02 03:38:17,997 - INFO - Configuration loaded successfully
+2025-07-02 03:38:18,459 - INFO - Database initialized successfully
+2025-07-02 03:38:18,464 - INFO - Configuration loaded successfully
+2025-07-02 03:38:18,499 - INFO - Groq client initialized successfully
+2025-07-02 03:38:18,514 - INFO - OpenAI client initialized successfully
+2025-07-02 03:38:18,514 - INFO - Starting in 5.2s to avoid detection...
+2025-07-02 03:38:23,728 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:38:23,729 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:38:23,729 - INFO - Logging in using static token.
+2025-07-02 03:38:23,892 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:38:24,118 - INFO - Loaded extension: cogs.commands
+2025-07-02 03:38:24,120 - INFO - Loaded extension: cogs.admin
+2025-07-02 03:38:24,490 - INFO - Connected to Gateway (Session ID: a74f2c9867f0c09cabc14b5b2e978d41).
+2025-07-02 03:38:51,315 - INFO - Configuration loaded successfully
+2025-07-02 03:38:51,803 - INFO - Database initialized successfully
+2025-07-02 03:38:51,808 - INFO - Configuration loaded successfully
+2025-07-02 03:38:51,836 - INFO - Groq client initialized successfully
+2025-07-02 03:38:51,845 - INFO - OpenAI client initialized successfully
+2025-07-02 03:38:51,845 - INFO - Starting in 3.8s to avoid detection...
+2025-07-02 03:38:55,684 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:38:55,685 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:38:55,686 - INFO - Logging in using static token.
+2025-07-02 03:38:55,782 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:38:55,938 - INFO - Loaded extension: cogs.commands
+2025-07-02 03:38:55,942 - INFO - Loaded extension: cogs.admin
+2025-07-02 03:38:56,360 - INFO - Connected to Gateway (Session ID: 4e28703cd8db38a960c2cb69a45edde9).
+2025-07-02 03:39:01,485 - INFO - Configuration loaded successfully
+2025-07-02 03:39:01,910 - INFO - Database initialized successfully
+2025-07-02 03:39:01,915 - INFO - Configuration loaded successfully
+2025-07-02 03:39:01,939 - INFO - Groq client initialized successfully
+2025-07-02 03:39:01,949 - INFO - OpenAI client initialized successfully
+2025-07-02 03:39:01,949 - INFO - Starting in 6.3s to avoid detection...
+2025-07-02 03:39:08,257 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:39:08,258 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:39:08,258 - INFO - Logging in using static token.
+2025-07-02 03:39:08,416 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:39:08,561 - INFO - Loaded extension: cogs.commands
+2025-07-02 03:39:08,564 - INFO - Loaded extension: cogs.admin
+2025-07-02 03:39:08,990 - INFO - Connected to Gateway (Session ID: c9547c1c137a261c9177ca8ca428c0b4).
+2025-07-02 03:43:46,361 - INFO - Configuration loaded successfully
+2025-07-02 03:43:47,075 - INFO - Database initialized successfully
+2025-07-02 03:43:47,084 - INFO - Configuration loaded successfully
+2025-07-02 03:43:47,136 - INFO - Groq client initialized successfully
+2025-07-02 03:43:47,146 - INFO - OpenAI client initialized successfully
+2025-07-02 03:43:47,146 - INFO - Starting in 5.9s to avoid detection...
+2025-07-02 03:43:56,494 - INFO - Configuration loaded successfully
+2025-07-02 03:43:56,932 - INFO - Database initialized successfully
+2025-07-02 03:43:56,937 - INFO - Configuration loaded successfully
+2025-07-02 03:43:56,962 - INFO - Groq client initialized successfully
+2025-07-02 03:43:56,970 - INFO - OpenAI client initialized successfully
+2025-07-02 03:43:56,970 - INFO - Starting in 8.0s to avoid detection...
+2025-07-02 03:44:04,963 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:44:04,965 - INFO - Health server started on port 5000
+2025-07-02 03:44:04,966 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:44:04,966 - INFO - Logging in using static token.
+2025-07-02 03:44:04,967 - INFO - Health server started on port 5000
+2025-07-02 03:44:05,146 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:44:05,312 - INFO - Loaded extension: cogs.commands
+2025-07-02 03:44:05,314 - INFO - Loaded extension: cogs.admin
+2025-07-02 03:44:05,677 - INFO - Connected to Gateway (Session ID: 22f13713cdf09f552cde621844166b53).
+2025-07-02 03:44:15,698 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 03:45:05,341 - INFO - Configuration loaded successfully
+2025-07-02 03:45:06,318 - INFO - Database initialized successfully
+2025-07-02 03:45:06,324 - INFO - Configuration loaded successfully
+2025-07-02 03:45:06,484 - INFO - Groq client initialized successfully
+2025-07-02 03:45:06,500 - INFO - OpenAI client initialized successfully
+2025-07-02 03:45:06,501 - INFO - Starting in 7.3s to avoid detection...
+2025-07-02 03:45:15,620 - INFO - Configuration loaded successfully
+2025-07-02 03:45:16,068 - INFO - Database initialized successfully
+2025-07-02 03:45:16,073 - INFO - Configuration loaded successfully
+2025-07-02 03:45:16,100 - INFO - Groq client initialized successfully
+2025-07-02 03:45:16,109 - INFO - OpenAI client initialized successfully
+2025-07-02 03:45:16,109 - INFO - Starting in 6.0s to avoid detection...
+2025-07-02 03:45:22,061 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:45:22,065 - INFO - Health server started on port 5000
+2025-07-02 03:45:23,064 - INFO - Health server started on port 5000
+2025-07-02 03:45:23,064 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:45:23,065 - INFO - Logging in using static token.
+2025-07-02 03:45:23,219 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:45:23,458 - INFO - Loaded extension: cogs.commands
+2025-07-02 03:45:23,460 - INFO - Loaded extension: cogs.admin
+2025-07-02 03:45:23,875 - INFO - Connected to Gateway (Session ID: 0f7713710a2d464bc2ccfc8eb465abc3).
+2025-07-02 03:45:33,901 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 03:46:04,371 - INFO - Configuration loaded successfully
+2025-07-02 03:46:05,023 - INFO - Database initialized successfully
+2025-07-02 03:46:05,029 - INFO - Configuration loaded successfully
+2025-07-02 03:46:05,078 - INFO - Groq client initialized successfully
+2025-07-02 03:46:05,088 - INFO - OpenAI client initialized successfully
+2025-07-02 03:46:05,088 - INFO - Starting in 6.9s to avoid detection...
+2025-07-02 03:46:14,371 - INFO - Configuration loaded successfully
+2025-07-02 03:46:14,854 - INFO - Database initialized successfully
+2025-07-02 03:46:14,859 - INFO - Configuration loaded successfully
+2025-07-02 03:46:14,894 - INFO - Groq client initialized successfully
+2025-07-02 03:46:14,908 - INFO - OpenAI client initialized successfully
+2025-07-02 03:46:14,908 - INFO - Starting in 7.1s to avoid detection...
+2025-07-02 03:46:22,053 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:46:23,058 - INFO - Health server started on port 5000
+2025-07-02 03:46:23,058 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:46:23,059 - INFO - Logging in using static token.
+2025-07-02 03:46:23,149 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:46:23,286 - INFO - Loaded extension: cogs.commands
+2025-07-02 03:46:23,288 - INFO - Loaded extension: cogs.admin
+2025-07-02 03:46:23,915 - INFO - Connected to Gateway (Session ID: d24c4bfcf28119adf1f61a1de2c22572).
+2025-07-02 03:46:33,945 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 03:46:47,606 - INFO - Configuration loaded successfully
+2025-07-02 03:46:48,167 - INFO - Database initialized successfully
+2025-07-02 03:46:48,171 - INFO - Configuration loaded successfully
+2025-07-02 03:46:48,219 - INFO - Groq client initialized successfully
+2025-07-02 03:46:48,229 - INFO - OpenAI client initialized successfully
+2025-07-02 03:46:48,229 - INFO - Starting in 7.6s to avoid detection...
+2025-07-02 03:46:57,498 - INFO - Configuration loaded successfully
+2025-07-02 03:46:57,903 - INFO - Database initialized successfully
+2025-07-02 03:46:57,907 - INFO - Configuration loaded successfully
+2025-07-02 03:46:57,936 - INFO - Groq client initialized successfully
+2025-07-02 03:46:57,943 - INFO - OpenAI client initialized successfully
+2025-07-02 03:46:57,943 - INFO - Starting in 5.0s to avoid detection...
+2025-07-02 03:47:02,927 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 03:47:03,932 - INFO - Health server started on port 5000
+2025-07-02 03:47:03,932 - INFO - Starting Discord AI Selfbot...
+2025-07-02 03:47:03,933 - INFO - Logging in using static token.
+2025-07-02 03:47:04,110 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 03:47:04,269 - INFO - Loaded extension: cogs.commands
+2025-07-02 03:47:04,271 - INFO - Loaded extension: cogs.admin
+2025-07-02 03:47:04,681 - INFO - Connected to Gateway (Session ID: 5bfaf21377859de199f35efbef6f4b6f).
+2025-07-02 03:47:14,707 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 03:50:08,980 - INFO - AI instructions loaded successfully
+2025-07-02 03:50:09,520 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:50:09,522 - INFO - Groq response generated using 560 tokens
+2025-07-02 03:50:09,523 - INFO - Groq response generated in 0.54s
+2025-07-02 03:50:09,523 - INFO - [03:50:09] alliepumz: Squid game is peak
+2025-07-02 03:50:09,523 - INFO - [03:50:09] Responding to alliepumz: yeah that show's wild
+2025-07-02 03:51:00,401 - INFO - AI instructions loaded successfully
+2025-07-02 03:51:00,507 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-02 03:51:00,508 - INFO - Retrying request to /openai/v1/chat/completions in 0.382230 seconds
+2025-07-02 03:51:00,955 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-02 03:51:00,956 - INFO - Retrying request to /openai/v1/chat/completions in 0.871050 seconds
+2025-07-02 03:51:01,883 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-02 03:51:01,884 - WARNING - Groq API error (attempt 1): no healthy upstream
+2025-07-02 03:51:02,937 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-02 03:51:02,938 - INFO - Retrying request to /openai/v1/chat/completions in 0.399174 seconds
+2025-07-02 03:51:03,411 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-02 03:51:03,411 - INFO - Retrying request to /openai/v1/chat/completions in 0.931495 seconds
+2025-07-02 03:51:04,401 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-02 03:51:04,402 - WARNING - Groq API error (attempt 2): no healthy upstream
+2025-07-02 03:51:05,465 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 503 Service Unavailable"
+2025-07-02 03:51:05,465 - INFO - Retrying request to /openai/v1/chat/completions in 0.375898 seconds
+2025-07-02 03:51:06,187 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:51:06,188 - INFO - Groq response generated using 622 tokens
+2025-07-02 03:51:06,188 - INFO - Groq response generated in 5.79s
+2025-07-02 03:51:06,189 - INFO - [03:51:06] alliepumz: the lady boy was my favorite charcoal from squid game
+2025-07-02 03:51:06,189 - INFO - [03:51:06] Responding to alliepumz: yeah ali was pretty cool
+2025-07-02 03:52:17,264 - INFO - AI instructions loaded successfully
+2025-07-02 03:52:17,776 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:52:17,778 - INFO - Groq response generated using 652 tokens
+2025-07-02 03:52:17,778 - INFO - Groq response generated in 0.51s
+2025-07-02 03:52:17,778 - INFO - [03:52:17] alliepumz: No park sung hoon 💀
+2025-07-02 03:52:17,778 - INFO - [03:52:17] Responding to alliepumz: lol what happened to him tho
+2025-07-02 03:52:45,391 - INFO - AI instructions loaded successfully
+2025-07-02 03:52:45,809 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:52:45,811 - INFO - Groq response generated using 681 tokens
+2025-07-02 03:52:45,811 - INFO - Groq response generated in 0.42s
+2025-07-02 03:52:45,811 - INFO - [03:52:45] alliepumz: Well he got rekt
+2025-07-02 03:52:45,811 - INFO - [03:52:45] Responding to alliepumz: yeah that was a sad moment
+2025-07-02 03:53:14,709 - INFO - AI instructions loaded successfully
+2025-07-02 03:53:15,130 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:53:15,131 - INFO - Groq response generated using 711 tokens
+2025-07-02 03:53:15,132 - INFO - Groq response generated in 0.42s
+2025-07-02 03:53:15,132 - INFO - [03:53:15] alliepumz: 😭 I’m saying
+2025-07-02 03:53:15,132 - INFO - [03:53:15] Responding to alliepumz: yeah no cap
+2025-07-02 03:53:30,467 - INFO - AI instructions loaded successfully
+2025-07-02 03:53:30,848 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:53:30,849 - INFO - Groq response generated using 717 tokens
+2025-07-02 03:53:30,849 - INFO - Groq response generated in 0.38s
+2025-07-02 03:53:30,849 - INFO - [03:53:30] alliepumz: 😹
+2025-07-02 03:53:30,849 - INFO - [03:53:30] Responding to alliepumz: lol
+2025-07-02 03:55:00,537 - INFO - AI instructions loaded successfully
+2025-07-02 03:55:00,934 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:55:00,935 - INFO - Groq response generated using 705 tokens
+2025-07-02 03:55:00,935 - INFO - Groq response generated in 0.40s
+2025-07-02 03:55:00,935 - INFO - [03:55:00] alliepumz: anyways
+2025-07-02 03:55:00,935 - INFO - [03:55:00] Responding to alliepumz: what's next
+2025-07-02 03:56:22,382 - INFO - AI instructions loaded successfully
+2025-07-02 03:56:22,832 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:56:22,833 - INFO - Groq response generated using 753 tokens
+2025-07-02 03:56:22,833 - INFO - Groq response generated in 0.45s
+2025-07-02 03:56:22,834 - INFO - [03:56:22] alliepumz: Who’s the first president of the photosynthesis of the isosceles triangle in Pythagoras theorem in a is 67 right
+2025-07-02 03:56:22,834 - INFO - [03:56:22] Responding to alliepumz: idk what you're talking about lol
+2025-07-02 03:56:59,275 - INFO - AI instructions loaded successfully
+2025-07-02 03:56:59,681 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:56:59,682 - INFO - Groq response generated using 741 tokens
+2025-07-02 03:56:59,683 - INFO - Groq response generated in 0.41s
+2025-07-02 03:56:59,683 - INFO - [03:56:59] alliepumz: You don’t know the meme 6 7
+2025-07-02 03:56:59,683 - INFO - [03:56:59] Responding to alliepumz: nah sounds like some weird stuff
+2025-07-02 03:57:35,576 - INFO - AI instructions loaded successfully
+2025-07-02 03:57:36,000 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 03:57:36,001 - INFO - Groq response generated using 734 tokens
+2025-07-02 03:57:36,002 - INFO - Groq response generated in 0.43s
+2025-07-02 03:57:36,002 - INFO - [03:57:36] alliepumz: yea ik right
+2025-07-02 03:57:36,002 - INFO - [03:57:36] Responding to alliepumz: yeah no kidding
+2025-07-02 04:07:02,639 - INFO - Configuration loaded successfully
+2025-07-02 04:07:03,372 - INFO - Database initialized successfully
+2025-07-02 04:07:03,377 - INFO - Configuration loaded successfully
+2025-07-02 04:07:03,433 - INFO - Groq client initialized successfully
+2025-07-02 04:07:03,452 - INFO - OpenAI client initialized successfully
+2025-07-02 04:07:03,453 - INFO - Starting in 3.0s to avoid detection...
+2025-07-02 04:07:06,457 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 04:07:07,469 - INFO - Health server started on port 5000
+2025-07-02 04:07:07,469 - INFO - Starting Discord AI Selfbot...
+2025-07-02 04:07:07,470 - INFO - Logging in using static token.
+2025-07-02 04:07:07,642 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 04:07:07,795 - INFO - Loaded extension: cogs.commands
+2025-07-02 04:07:07,797 - INFO - Loaded extension: cogs.admin
+2025-07-02 04:07:08,183 - INFO - Connected to Gateway (Session ID: 478ef3134baac2f7d446b9762a38a171).
+2025-07-02 04:07:10,083 - ERROR - Error in on_message: 'Bot' object has no attribute 'selfbot_id'
+2025-07-02 04:07:16,359 - ERROR - Error in on_message: 'Bot' object has no attribute 'selfbot_id'
+2025-07-02 04:07:18,215 - INFO - Configuration loaded successfully
+2025-07-02 04:07:18,216 - ERROR - Error in auto conversation for channel 1353451411664408650: 'BotState' object has no attribute 'maintenance_mode'
+2025-07-02 04:07:18,216 - ERROR - Error in auto conversation for channel 1357743091691421930: 'BotState' object has no attribute 'maintenance_mode'
+2025-07-02 04:07:18,216 - ERROR - Error in auto conversation for channel 1362833666815955134: 'BotState' object has no attribute 'maintenance_mode'
+2025-07-02 04:07:18,219 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 04:07:32,218 - INFO - Configuration loaded successfully
+2025-07-02 04:07:32,662 - INFO - Database initialized successfully
+2025-07-02 04:07:32,667 - INFO - Configuration loaded successfully
+2025-07-02 04:07:32,701 - INFO - Groq client initialized successfully
+2025-07-02 04:07:32,714 - INFO - OpenAI client initialized successfully
+2025-07-02 04:07:32,714 - INFO - Starting in 5.7s to avoid detection...
+2025-07-02 04:07:38,405 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 04:07:39,412 - INFO - Health server started on port 5000
+2025-07-02 04:07:39,412 - INFO - Starting Discord AI Selfbot...
+2025-07-02 04:07:39,413 - INFO - Logging in using static token.
+2025-07-02 04:07:39,564 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 04:07:39,750 - INFO - Loaded extension: cogs.commands
+2025-07-02 04:07:39,753 - INFO - Loaded extension: cogs.admin
+2025-07-02 04:07:40,160 - INFO - Connected to Gateway (Session ID: fa59cd37a9e313cd91ea622f0235e397).
+2025-07-02 04:07:50,189 - INFO - Configuration loaded successfully
+2025-07-02 04:07:50,199 - ERROR - Error in auto conversation for channel 1353451411664408650: 'BotState' object has no attribute 'maintenance_mode'
+2025-07-02 04:07:50,200 - ERROR - Error in auto conversation for channel 1357743091691421930: 'BotState' object has no attribute 'maintenance_mode'
+2025-07-02 04:07:50,200 - ERROR - Error in auto conversation for channel 1362833666815955134: 'BotState' object has no attribute 'maintenance_mode'
+2025-07-02 04:07:50,204 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 04:12:33,824 - INFO - Configuration loaded successfully
+2025-07-02 04:12:33,825 - ERROR - Error in auto conversation for channel 1353451411664408650: 'BotState' object has no attribute 'maintenance_mode'
+2025-07-02 04:12:33,825 - ERROR - Error in auto conversation for channel 1357743091691421930: 'BotState' object has no attribute 'maintenance_mode'
+2025-07-02 04:12:33,825 - ERROR - Error in auto conversation for channel 1362833666815955134: 'BotState' object has no attribute 'maintenance_mode'
+2025-07-02 04:12:37,786 - INFO - Configuration loaded successfully
+2025-07-02 04:12:37,791 - INFO - Configuration saved successfully
+2025-07-02 04:12:37,954 - ERROR - Error in auto conversation toggle: Messageable.send() got an unexpected keyword argument 'embed'
+2025-07-02 04:12:37,991 - WARNING - Failed to send error notification for TypeError
+2025-07-02 04:13:06,674 - INFO - Configuration loaded successfully
+2025-07-02 04:13:06,675 - ERROR - Error in help command: Messageable.send() got an unexpected keyword argument 'embed'
+2025-07-02 04:17:28,686 - INFO - Configuration loaded successfully
+2025-07-02 04:22:28,704 - INFO - Configuration loaded successfully
+2025-07-02 12:07:47,871 - INFO - Configuration loaded successfully
+2025-07-02 12:07:49,001 - INFO - Database initialized successfully
+2025-07-02 12:07:49,006 - INFO - Configuration loaded successfully
+2025-07-02 12:07:49,068 - INFO - Groq client initialized successfully
+2025-07-02 12:07:49,078 - INFO - OpenAI client initialized successfully
+2025-07-02 12:07:49,079 - INFO - Starting in 7.7s to avoid detection...
+2025-07-02 12:07:56,738 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 12:07:57,743 - INFO - Health server started on port 5000
+2025-07-02 12:07:57,744 - INFO - Starting Discord AI Selfbot...
+2025-07-02 12:07:57,745 - INFO - Logging in using static token.
+2025-07-02 12:07:57,922 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 12:07:58,111 - INFO - Loaded extension: cogs.commands
+2025-07-02 12:07:58,114 - INFO - Loaded extension: cogs.admin
+2025-07-02 12:07:59,027 - INFO - Connected to Gateway (Session ID: 0939622af42ae96e62d4fd93c1c4e88b).
+2025-07-02 12:08:06,308 - ERROR - Error in on_message: 'Bot' object has no attribute 'selfbot_id'
+2025-07-02 12:08:09,060 - INFO - Configuration loaded successfully
+2025-07-02 12:08:09,070 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 12:13:09,067 - INFO - Configuration loaded successfully
+2025-07-02 12:18:09,075 - INFO - Configuration loaded successfully
+2025-07-02 13:06:43,819 - INFO - Configuration loaded successfully
+2025-07-02 13:06:44,991 - INFO - Database initialized successfully
+2025-07-02 13:06:44,997 - INFO - Configuration loaded successfully
+2025-07-02 13:06:45,062 - INFO - Groq client initialized successfully
+2025-07-02 13:06:45,071 - INFO - OpenAI client initialized successfully
+2025-07-02 13:06:45,071 - INFO - Starting in 5.5s to avoid detection...
+2025-07-02 13:06:50,559 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 13:06:51,581 - INFO - Health server started on port 5000
+2025-07-02 13:06:51,582 - INFO - Starting Discord AI Selfbot...
+2025-07-02 13:06:51,583 - INFO - Logging in using static token.
+2025-07-02 13:06:51,784 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 13:06:51,965 - INFO - Loaded extension: cogs.commands
+2025-07-02 13:06:51,967 - INFO - Loaded extension: cogs.admin
+2025-07-02 13:06:52,446 - INFO - Connected to Gateway (Session ID: 445e02aae4a54ba6f34fe42633f5e96c).
+2025-07-02 13:07:02,252 - ERROR - Error in on_message: 'Bot' object has no attribute 'selfbot_id'
+2025-07-02 13:07:02,471 - INFO - Configuration loaded successfully
+2025-07-02 13:07:02,481 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 13:10:31,837 - INFO - Configuration loaded successfully
+2025-07-02 13:10:31,840 - INFO - Configuration saved successfully
+2025-07-02 13:10:32,003 - ERROR - Error in auto conversation toggle: Messageable.send() got an unexpected keyword argument 'embed'
+2025-07-02 13:10:32,057 - WARNING - Failed to send error notification for TypeError
+2025-07-02 13:12:02,480 - INFO - Configuration loaded successfully
+2025-07-02 13:12:02,481 - ERROR - Error in auto conversation for channel 1353451411664408650: 'BotState' object has no attribute 'maintenance_mode'
+2025-07-02 13:12:02,481 - ERROR - Error in auto conversation for channel 1357743091691421930: 'BotState' object has no attribute 'maintenance_mode'
+2025-07-02 13:12:02,481 - ERROR - Error in auto conversation for channel 1362833666815955134: 'BotState' object has no attribute 'maintenance_mode'
+2025-07-02 13:12:53,403 - INFO - Added channel 1353451411299373113 to active channels
+2025-07-02 13:13:02,801 - INFO - Configuration loaded successfully
+2025-07-02 13:13:02,805 - INFO - Configuration saved successfully
+2025-07-02 13:13:02,969 - ERROR - Error in auto conversation toggle: Messageable.send() got an unexpected keyword argument 'embed'
+2025-07-02 13:16:12,524 - INFO - Configuration loaded successfully
+2025-07-02 13:21:12,534 - INFO - Configuration loaded successfully
+2025-07-02 13:26:12,544 - INFO - Configuration loaded successfully
+2025-07-02 13:50:42,667 - INFO - Configuration loaded successfully
+2025-07-02 13:50:43,696 - INFO - Database initialized successfully
+2025-07-02 13:50:43,701 - INFO - Configuration loaded successfully
+2025-07-02 13:50:43,773 - INFO - Groq client initialized successfully
+2025-07-02 13:50:43,788 - INFO - OpenAI client initialized successfully
+2025-07-02 13:50:43,788 - INFO - Starting in 7.9s to avoid detection...
+2025-07-02 13:50:51,730 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 13:50:52,736 - INFO - Health server started on port 5000
+2025-07-02 13:50:52,736 - INFO - Starting Discord AI Selfbot...
+2025-07-02 13:50:52,737 - INFO - Logging in using static token.
+2025-07-02 13:50:52,984 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 13:50:53,162 - INFO - Loaded extension: cogs.commands
+2025-07-02 13:50:53,164 - INFO - Loaded extension: cogs.admin
+2025-07-02 13:50:54,160 - INFO - Connected to Gateway (Session ID: 6ca74c628cb30ccf13df52e5b55ea922).
+2025-07-02 13:51:04,197 - INFO - Configuration loaded successfully
+2025-07-02 13:51:04,206 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 13:56:04,206 - INFO - Configuration loaded successfully
+2025-07-02 14:01:04,225 - INFO - Configuration loaded successfully
+2025-07-02 14:06:04,234 - INFO - Configuration loaded successfully
+2025-07-02 14:11:04,250 - INFO - Configuration loaded successfully
+2025-07-02 14:16:04,264 - INFO - Configuration loaded successfully
+2025-07-02 15:05:40,161 - INFO - Configuration loaded successfully
+2025-07-02 15:05:41,401 - INFO - Database initialized successfully
+2025-07-02 15:05:41,407 - INFO - Configuration loaded successfully
+2025-07-02 15:05:41,471 - INFO - Groq client initialized successfully
+2025-07-02 15:05:41,485 - INFO - OpenAI client initialized successfully
+2025-07-02 15:05:41,485 - INFO - Starting in 4.6s to avoid detection...
+2025-07-02 15:05:46,114 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 15:05:47,120 - INFO - Health server started on port 5000
+2025-07-02 15:05:47,120 - INFO - Starting Discord AI Selfbot...
+2025-07-02 15:05:47,121 - INFO - Logging in using static token.
+2025-07-02 15:05:47,352 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 414576.
+2025-07-02 15:05:47,559 - INFO - Loaded extension: cogs.commands
+2025-07-02 15:05:47,562 - INFO - Loaded extension: cogs.admin
+2025-07-02 15:05:48,785 - INFO - Connected to Gateway (Session ID: 8151745cc94749ce8cbe0f7911f9f5ad).
+2025-07-02 22:03:51,968 - INFO - Configuration loaded successfully
+2025-07-02 22:03:53,179 - INFO - Database initialized successfully
+2025-07-02 22:03:53,187 - INFO - Configuration loaded successfully
+2025-07-02 22:03:53,267 - INFO - Groq client initialized successfully
+2025-07-02 22:03:53,281 - INFO - OpenAI client initialized successfully
+2025-07-02 22:03:53,281 - INFO - Starting in 5.1s to avoid detection...
+2025-07-02 22:03:58,388 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 22:03:59,392 - INFO - Health server started on port 5000
+2025-07-02 22:03:59,393 - INFO - Starting Discord AI Selfbot...
+2025-07-02 22:03:59,394 - INFO - Logging in using static token.
+2025-07-02 22:03:59,601 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415074.
+2025-07-02 22:03:59,782 - INFO - Loaded extension: cogs.commands
+2025-07-02 22:03:59,786 - INFO - Loaded extension: cogs.admin
+2025-07-02 22:04:00,235 - INFO - Connected to Gateway (Session ID: 5985157c1bd0811d717a1e99bd287eee).
+2025-07-02 22:04:10,262 - INFO - Configuration loaded successfully
+2025-07-02 22:04:10,265 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 22:07:44,476 - INFO - AI instructions loaded successfully
+2025-07-02 22:07:44,931 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:07:44,933 - INFO - Groq response generated using 552 tokens
+2025-07-02 22:07:44,933 - INFO - Groq response generated in 0.46s
+2025-07-02 22:07:44,934 - INFO - [22:07:44] _imjay: Yo
+2025-07-02 22:07:44,934 - INFO - [22:07:44] Responding to _imjay: not much
+2025-07-02 22:07:58,716 - INFO - AI instructions loaded successfully
+2025-07-02 22:07:59,133 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:07:59,134 - INFO - Groq response generated using 594 tokens
+2025-07-02 22:07:59,134 - INFO - Groq response generated in 0.42s
+2025-07-02 22:07:59,134 - INFO - [22:07:59] _imjay: What
+2025-07-02 22:07:59,134 - INFO - [22:07:59] Responding to _imjay: nm u
+2025-07-02 22:08:25,477 - INFO - AI instructions loaded successfully
+2025-07-02 22:08:25,856 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:08:25,860 - INFO - Groq response generated using 628 tokens
+2025-07-02 22:08:25,860 - INFO - Groq response generated in 0.38s
+2025-07-02 22:08:25,860 - INFO - [22:08:25] _imjay: What are you talking about
+2025-07-02 22:08:25,860 - INFO - [22:08:25] Responding to _imjay: idk just chillin
+2025-07-02 22:08:53,184 - INFO - AI instructions loaded successfully
+2025-07-02 22:08:53,613 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:08:53,614 - INFO - Groq response generated using 653 tokens
+2025-07-02 22:08:53,614 - INFO - Groq response generated in 0.43s
+2025-07-02 22:08:53,614 - INFO - [22:08:53] _imjay: Bro are you dumb
+2025-07-02 22:08:53,614 - INFO - [22:08:53] Responding to _imjay: lol no
+2025-07-02 22:09:10,268 - INFO - Configuration loaded successfully
+2025-07-02 22:09:42,197 - INFO - Configuration loaded successfully
+2025-07-02 22:09:42,201 - INFO - Configuration saved successfully
+2025-07-02 22:09:42,421 - ERROR - Error in auto conversation toggle: Messageable.send() got an unexpected keyword argument 'embed'
+2025-07-02 22:09:42,490 - WARNING - Failed to send error notification for TypeError
+2025-07-02 22:09:50,448 - INFO - Configuration loaded successfully
+2025-07-02 22:09:50,453 - INFO - Configuration saved successfully
+2025-07-02 22:09:50,604 - ERROR - Error in auto conversation toggle: Messageable.send() got an unexpected keyword argument 'embed'
+2025-07-02 22:10:05,065 - INFO - Configuration loaded successfully
+2025-07-02 22:10:05,066 - ERROR - Error in help command: Messageable.send() got an unexpected keyword argument 'embed'
+2025-07-02 22:10:48,448 - ERROR - Error in ping command: Messageable.send() got an unexpected keyword argument 'embed'
+2025-07-02 22:11:28,762 - INFO - AI instructions loaded successfully
+2025-07-02 22:11:29,190 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:11:29,191 - INFO - Groq response generated using 576 tokens
+2025-07-02 22:11:29,191 - INFO - Groq response generated in 0.43s
+2025-07-02 22:11:29,191 - INFO - [22:11:29] .joshua0245: https://replit.com/@parksjodani53/DiscordAIHelper#.replit
+2025-07-02 22:11:29,192 - INFO - [22:11:29] Responding to .joshua0245: yeah saw that link whats it for
+2025-07-02 22:11:47,514 - INFO - AI instructions loaded successfully
+2025-07-02 22:11:48,002 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:11:48,003 - INFO - Groq response generated using 638 tokens
+2025-07-02 22:11:48,004 - INFO - Groq response generated in 0.49s
+2025-07-02 22:11:48,004 - INFO - [22:11:48] .joshua0245: yeah saw that link whats it for
+2025-07-02 22:11:48,004 - INFO - [22:11:48] Responding to .joshua0245: idk looks like some discord thing maybe a bot or somethin
+2025-07-02 22:12:37,535 - INFO - Configuration loaded successfully
+2025-07-02 22:12:38,609 - INFO - Database initialized successfully
+2025-07-02 22:12:38,613 - INFO - Configuration loaded successfully
+2025-07-02 22:12:38,675 - INFO - Groq client initialized successfully
+2025-07-02 22:12:38,684 - INFO - OpenAI client initialized successfully
+2025-07-02 22:12:38,684 - INFO - Starting in 7.1s to avoid detection...
+2025-07-02 22:12:45,834 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 22:12:46,839 - INFO - Health server started on port 5000
+2025-07-02 22:12:46,839 - INFO - Starting Discord AI Selfbot...
+2025-07-02 22:12:46,840 - INFO - Logging in using static token.
+2025-07-02 22:12:47,003 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415074.
+2025-07-02 22:12:47,146 - INFO - Loaded extension: cogs.commands
+2025-07-02 22:12:47,147 - INFO - Loaded extension: cogs.admin
+2025-07-02 22:12:47,634 - INFO - Connected to Gateway (Session ID: b36323afb4a366f3181224cbd98ac76a).
+2025-07-02 22:12:48,409 - ERROR - Error in on_message: 'Bot' object has no attribute 'selfbot_id'
+2025-07-02 22:12:52,368 - ERROR - Error in on_message: 'Bot' object has no attribute 'selfbot_id'
+2025-07-02 22:12:53,609 - ERROR - Error in on_message: 'Bot' object has no attribute 'selfbot_id'
+2025-07-02 22:12:54,645 - ERROR - Error in on_message: 'Bot' object has no attribute 'selfbot_id'
+2025-07-02 22:12:57,659 - INFO - Configuration loaded successfully
+2025-07-02 22:12:57,664 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 22:13:30,754 - INFO - AI instructions loaded successfully
+2025-07-02 22:13:31,175 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:13:31,177 - INFO - Groq response generated using 552 tokens
+2025-07-02 22:13:31,178 - INFO - Groq response generated in 0.42s
+2025-07-02 22:13:31,178 - INFO - [22:13:31] .joshua0245: yeah
+2025-07-02 22:13:31,178 - INFO - [22:13:31] Responding to .joshua0245: not much
+2025-07-02 22:13:45,687 - INFO - AI instructions loaded successfully
+2025-07-02 22:13:46,078 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:13:46,080 - INFO - Groq response generated using 609 tokens
+2025-07-02 22:13:46,080 - INFO - Groq response generated in 0.39s
+2025-07-02 22:13:46,080 - INFO - [22:13:46] .joshua0245: same | not much
+2025-07-02 22:13:46,080 - INFO - [22:13:46] Responding to .joshua0245: yeah pretty chill
+2025-07-02 22:13:56,492 - INFO - AI instructions loaded successfully
+2025-07-02 22:13:56,913 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:13:56,915 - INFO - Groq response generated using 647 tokens
+2025-07-02 22:13:56,915 - INFO - Groq response generated in 0.42s
+2025-07-02 22:13:56,915 - INFO - [22:13:56] .joshua0245: yeah pretty chill | nah me neither
+2025-07-02 22:13:56,916 - INFO - [22:13:56] Responding to .joshua0245: lol yeah
+2025-07-02 22:14:07,132 - INFO - AI instructions loaded successfully
+2025-07-02 22:14:07,533 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:14:07,534 - INFO - Groq response generated using 690 tokens
+2025-07-02 22:14:07,534 - INFO - Groq response generated in 0.40s
+2025-07-02 22:14:07,534 - INFO - [22:14:07] .joshua0245: lol yeah | idk just been playin some games
+2025-07-02 22:14:07,535 - INFO - [22:14:07] Responding to .joshua0245: what games
+2025-07-02 22:14:25,694 - INFO - AI instructions loaded successfully
+2025-07-02 22:14:26,076 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:14:26,077 - INFO - Groq response generated using 711 tokens
+2025-07-02 22:14:26,077 - INFO - Groq response generated in 0.38s
+2025-07-02 22:14:26,078 - INFO - [22:14:26] .joshua0245: what games
+2025-07-02 22:14:26,078 - INFO - [22:14:26] Responding to .joshua0245: overwatch mostly
+2025-07-02 22:14:46,978 - INFO - AI instructions loaded successfully
+2025-07-02 22:14:47,402 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:14:47,403 - INFO - Groq response generated using 742 tokens
+2025-07-02 22:14:47,403 - INFO - Groq response generated in 0.42s
+2025-07-02 22:14:47,403 - INFO - [22:14:47] .joshua0245: just overwatch mostly | overwatch mostly | still playin reinhardt
+2025-07-02 22:14:47,403 - INFO - [22:14:47] Responding to .joshua0245: he's a beast
+2025-07-02 22:14:57,493 - INFO - AI instructions loaded successfully
+2025-07-02 22:14:58,159 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:14:58,160 - INFO - Groq response generated using 748 tokens
+2025-07-02 22:14:58,160 - INFO - Groq response generated in 0.67s
+2025-07-02 22:14:58,160 - INFO - [22:14:58] .joshua0245: yeah he's a beast | he's a beast
+2025-07-02 22:14:58,160 - INFO - [22:14:58] Responding to .joshua0245: fr his charge is insane
+2025-07-02 22:15:17,542 - INFO - AI instructions loaded successfully
+2025-07-02 22:15:18,096 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:15:18,097 - INFO - Groq response generated using 756 tokens
+2025-07-02 22:15:18,098 - INFO - Groq response generated in 0.56s
+2025-07-02 22:15:18,098 - INFO - [22:15:18] .joshua0245: yeah his charge is crazy | fr his charge is insane
+2025-07-02 22:15:18,098 - INFO - [22:15:18] Responding to .joshua0245: right got destroyed by ​ earlier
+2025-07-02 22:15:37,514 - INFO - AI instructions loaded successfully
+2025-07-02 22:15:37,915 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:15:37,917 - INFO - Groq response generated using 771 tokens
+2025-07-02 22:15:37,917 - INFO - Groq response generated in 0.40s
+2025-07-02 22:15:37,917 - INFO - [22:15:37] .joshua0245: yeah i know right got caught by it so many times | right got destroyed by ​ earlier
+2025-07-02 22:15:37,917 - INFO - [22:15:37] Responding to .joshua0245: lol same here
+2025-07-02 22:15:55,902 - INFO - AI instructions loaded successfully
+2025-07-02 22:15:56,305 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:15:56,307 - INFO - Groq response generated using 783 tokens
+2025-07-02 22:15:56,307 - INFO - Groq response generated in 0.41s
+2025-07-02 22:15:56,307 - INFO - [22:15:56] .joshua0245: same happened to me like ​ times in a row lol | lol same here
+2025-07-02 22:15:56,308 - INFO - [22:15:56] Responding to .joshua0245: yeah no joke
+2025-07-02 22:18:20,866 - INFO - Configuration loaded successfully
+2025-07-02 22:18:21,323 - INFO - Database initialized successfully
+2025-07-02 22:18:21,328 - INFO - Configuration loaded successfully
+2025-07-02 22:18:21,363 - INFO - Groq client initialized successfully
+2025-07-02 22:18:21,375 - INFO - OpenAI client initialized successfully
+2025-07-02 22:18:21,375 - INFO - Starting in 5.2s to avoid detection...
+2025-07-02 22:18:26,596 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 22:18:27,601 - INFO - Health server started on port 5000
+2025-07-02 22:18:27,602 - INFO - Starting Discord AI Selfbot...
+2025-07-02 22:18:27,603 - INFO - Logging in using static token.
+2025-07-02 22:18:27,785 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415074.
+2025-07-02 22:18:27,937 - INFO - Loaded extension: cogs.commands
+2025-07-02 22:18:27,939 - INFO - Loaded extension: cogs.admin
+2025-07-02 22:18:28,357 - INFO - Connected to Gateway (Session ID: 3946a91c92a4ba64de0108cf895c37c4).
+2025-07-02 22:18:38,396 - INFO - Configuration loaded successfully
+2025-07-02 22:18:38,399 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 22:23:38,405 - INFO - Configuration loaded successfully
+2025-07-02 22:25:46,310 - INFO - Configuration loaded successfully
+2025-07-02 22:25:46,311 - ERROR - Error in help command: Messageable.send() got an unexpected keyword argument 'embed'
+2025-07-02 22:25:46,362 - WARNING - Failed to send error notification for TypeError
+2025-07-02 22:26:27,352 - INFO - Configuration loaded successfully
+2025-07-02 22:26:27,356 - INFO - Configuration saved successfully
+2025-07-02 22:26:27,764 - ERROR - Error in auto conversation toggle: Messageable.send() got an unexpected keyword argument 'embed'
+2025-07-02 22:28:38,423 - INFO - Configuration loaded successfully
+2025-07-02 22:28:38,423 - ERROR - Error in auto conversation for channel 1353451411299373113: 'BotState' object has no attribute 'maintenance_mode'
+2025-07-02 22:28:38,423 - ERROR - Error in auto conversation for channel 1353451411664408650: 'BotState' object has no attribute 'maintenance_mode'
+2025-07-02 22:28:38,426 - ERROR - Error in auto conversation for channel 1357743091691421930: 'BotState' object has no attribute 'maintenance_mode'
+2025-07-02 22:28:38,426 - ERROR - Error in auto conversation for channel 1362833666815955134: 'BotState' object has no attribute 'maintenance_mode'
+2025-07-02 22:30:58,874 - INFO - Configuration loaded successfully
+2025-07-02 22:30:59,325 - INFO - Database initialized successfully
+2025-07-02 22:30:59,330 - INFO - Configuration loaded successfully
+2025-07-02 22:30:59,362 - INFO - Groq client initialized successfully
+2025-07-02 22:30:59,369 - INFO - OpenAI client initialized successfully
+2025-07-02 22:30:59,370 - INFO - Starting in 4.3s to avoid detection...
+2025-07-02 22:31:03,671 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 22:31:04,676 - INFO - Health server started on port 5000
+2025-07-02 22:31:04,676 - INFO - Starting Discord AI Selfbot...
+2025-07-02 22:31:04,677 - INFO - Logging in using static token.
+2025-07-02 22:31:04,954 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415074.
+2025-07-02 22:31:05,107 - INFO - Loaded extension: cogs.commands
+2025-07-02 22:31:05,110 - INFO - Loaded extension: cogs.admin
+2025-07-02 22:31:05,621 - INFO - Connected to Gateway (Session ID: 3a56312e27baf85f943fad1328c830cd).
+2025-07-02 22:31:15,665 - INFO - Configuration loaded successfully
+2025-07-02 22:31:15,671 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 22:31:30,691 - INFO - Configuration loaded successfully
+2025-07-02 22:31:31,241 - INFO - Database initialized successfully
+2025-07-02 22:31:31,247 - INFO - Configuration loaded successfully
+2025-07-02 22:31:31,284 - INFO - Groq client initialized successfully
+2025-07-02 22:31:31,295 - INFO - OpenAI client initialized successfully
+2025-07-02 22:31:31,295 - INFO - Starting in 4.7s to avoid detection...
+2025-07-02 22:31:35,954 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 22:31:35,960 - ERROR - Health server error: [Errno 98] Address already in use
+2025-07-02 22:31:36,960 - INFO - Health server started on port 5000
+2025-07-02 22:31:36,960 - INFO - Starting Discord AI Selfbot...
+2025-07-02 22:31:36,961 - INFO - Logging in using static token.
+2025-07-02 22:31:37,155 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415074.
+2025-07-02 22:31:37,329 - INFO - Loaded extension: cogs.commands
+2025-07-02 22:31:37,331 - INFO - Loaded extension: cogs.admin
+2025-07-02 22:31:37,866 - INFO - Connected to Gateway (Session ID: cb0dc31c165e408c943762c7e75a16c9).
+2025-07-02 22:31:47,899 - INFO - Configuration loaded successfully
+2025-07-02 22:31:47,903 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 22:32:32,915 - INFO - Configuration loaded successfully
+2025-07-02 22:32:33,426 - INFO - Database initialized successfully
+2025-07-02 22:32:33,432 - INFO - Configuration loaded successfully
+2025-07-02 22:32:33,466 - INFO - Groq client initialized successfully
+2025-07-02 22:32:33,476 - INFO - OpenAI client initialized successfully
+2025-07-02 22:32:33,476 - INFO - Starting in 4.1s to avoid detection...
+2025-07-02 22:32:37,544 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 22:32:38,548 - INFO - Health server started on port 5000
+2025-07-02 22:32:38,549 - INFO - Starting Discord AI Selfbot...
+2025-07-02 22:32:38,549 - INFO - Logging in using static token.
+2025-07-02 22:32:38,699 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415074.
+2025-07-02 22:32:38,854 - INFO - Loaded extension: cogs.commands
+2025-07-02 22:32:38,856 - INFO - Loaded extension: cogs.admin
+2025-07-02 22:32:39,303 - INFO - Connected to Gateway (Session ID: 52ad940e7063a286a7079e5f75bdaea0).
+2025-07-02 22:32:49,348 - INFO - Configuration loaded successfully
+2025-07-02 22:32:49,351 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 22:36:14,150 - INFO - Configuration loaded successfully
+2025-07-02 22:37:49,361 - INFO - Configuration loaded successfully
+2025-07-02 22:41:14,162 - INFO - Configuration loaded successfully
+2025-07-02 22:42:13,933 - INFO - AI instructions loaded successfully
+2025-07-02 22:42:14,475 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:42:14,478 - INFO - Groq response generated using 609 tokens
+2025-07-02 22:42:14,479 - INFO - Groq response generated in 0.55s
+2025-07-02 22:42:14,479 - INFO - [22:42:14] .joshua0245: wget https://raw.githubusercontent.com/yourusername/yourrepo/main/termux_install.sh
+chmod +x termux_install.sh
+./termux_install.sh
+2025-07-02 22:42:14,479 - INFO - [22:42:14] Responding to .joshua0245: nice script install gonna run that on my termux setup too what's it do exactly
+2025-07-02 22:42:17,019 - INFO - AI instructions loaded successfully
+2025-07-02 22:42:17,632 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:42:17,638 - INFO - Groq response generated using 661 tokens
+2025-07-02 22:42:17,638 - INFO - Groq response generated in 0.62s
+2025-07-02 22:42:17,638 - INFO - [22:42:17] .joshua0245: wget https://raw.githubusercontent.com/yourusername/yourrepo/main/termux_install.sh
+chmod +x termux_install.sh
+./termux_install.sh | nice script install gonna run that on my termux setup too what's it do exactly
+2025-07-02 22:42:17,638 - INFO - [22:42:17] Responding to .joshua0245: nice script gonna make your termux setup more functional prolly, that script is likely installing some packages and config files to get termux running smoothly, what's your current termux setup like, just a basic install or have you added any custom stuff already
+2025-07-02 22:42:21,098 - INFO - AI instructions loaded successfully
+2025-07-02 22:42:21,728 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:42:21,730 - INFO - Groq response generated using 840 tokens
+2025-07-02 22:42:21,730 - INFO - Groq response generated in 0.63s
+2025-07-02 22:42:21,730 - INFO - [22:42:21] .joshua0245: nice script install gonna run that on my termux setup too what's it do exactly | nice script gonna make your termux setup more functional prolly, that script is likely installing some packages and config files to get termux running smoothly, what's your current termux setup like, just a basic install or have you added any custom stuff already
+2025-07-02 22:42:21,730 - INFO - [22:42:21] Responding to .joshua0245: yeah just a basic install so far been meaning to add some more tools and configs to it prolly gonna try out some of the packages from the script and see what works best for me you use termux for anything in particular like dev or just messing around with linux on android
+2025-07-02 22:42:35,880 - INFO - AI instructions loaded successfully
+2025-07-02 22:42:36,367 - INFO - AI instructions loaded successfully
+2025-07-02 22:42:36,740 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:42:36,743 - INFO - Groq response generated using 990 tokens
+2025-07-02 22:42:36,743 - INFO - Groq response generated in 0.86s
+2025-07-02 22:42:36,743 - INFO - [22:42:36] .joshua0245: nice script gonna make your termux setup more functional prolly, that script is likely installing some packages and config files to get termux running smoothly, what's your current termux setup like, just a basic install or have you added any custom stuff already | yeah just a basic install so far been meaning to add some more tools and configs to it prolly gonna try out some of the packages from the script and see what works best for me you use termux for anything in particular like dev or just messing around with linux on android
+2025-07-02 22:42:36,743 - INFO - [22:42:36] Responding to .joshua0245: yeah i use it for a bit of both dev and messing around with linux on android its pretty cool to have a full blown linux env on my phone been using it to test out some scripts and learn more about linux sys admin stuff also used it to host a few small servers for personal projects what kind of tools and configs are you looking to add to your termux setup
+2025-07-02 22:42:36,980 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:42:36,981 - INFO - Groq response generated using 954 tokens
+2025-07-02 22:42:36,981 - INFO - Groq response generated in 0.61s
+2025-07-02 22:42:36,982 - INFO - [22:42:36] .joshua0245: yeah just a basic install so far been meaning to add some more tools and configs to it prolly gonna try out some of the packages from the script and see what works best for me you use termux for anything in particular like dev or just messing around with linux on android
+2025-07-02 22:42:36,982 - INFO - [22:42:36] Responding to .joshua0245: nah mostly just messing around with linux on android its pretty cool to have a full fledged terminal on my phone tho sometimes i use it to ssh into my server when im out and about wanna try out some penetration testing tools on it too
+2025-07-02 22:42:43,141 - INFO - AI instructions loaded successfully
+2025-07-02 22:42:43,865 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:42:43,866 - INFO - Groq response generated using 1222 tokens
+2025-07-02 22:42:43,866 - INFO - Groq response generated in 0.73s
+2025-07-02 22:42:43,866 - INFO - [22:42:43] .joshua0245: nah mostly just messing around with linux on android its pretty cool to have a full fledged terminal on my phone tho sometimes i use it to ssh into my server when im out and about wanna try out some penetration testing tools on it too | yeah i use it for a bit of both dev and messing around with linux on android its pretty cool to have a full blown linux env on my phone been using it to test out some scripts and learn more about linux sys admin stuff also used it to host a few small servers for personal projects what kind of tools and configs are you looking to add to your termux setup
+2025-07-02 22:42:43,867 - INFO - [22:42:43] Responding to .joshua0245: yeah i wanna get some decent text editors and ide's on there maybe some programming languages like python or ruby and some network scanning tools would be cool too been looking into metasploit and nmap what about you what kind of scripts you been testing out on termux
+2025-07-02 22:42:49,368 - INFO - Configuration loaded successfully
+2025-07-02 22:42:53,134 - INFO - AI instructions loaded successfully
+2025-07-02 22:42:53,913 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:42:53,915 - INFO - Groq response generated using 1345 tokens
+2025-07-02 22:42:53,915 - INFO - Groq response generated in 0.78s
+2025-07-02 22:42:53,915 - INFO - [22:42:53] .joshua0245: nah mostly just messing around with linux on android its pretty cool to have a full fledged terminal on my phone tho sometimes i use it to ssh into my server when im out and about wanna try out some penetration testing tools on it too | yeah i use it for a bit of both dev and messing around with linux on android its pretty cool to have a full blown linux env on my phone been using it to test out some scripts and learn more about linux sys admin stuff also used it to host a few small servers for personal projects what kind of tools and configs are you looking to add to your termux setup | yeah i wanna get some decent text editors and ide's on there maybe some programming languages like python or ruby and some network scanning tools would be cool too been looking into metasploit and nmap what about you what kind of scripts you been testing out on termux
+2025-07-02 22:42:53,915 - INFO - [22:42:53] Responding to .joshua0245: yeah metasploit and nmap are both great tools been playing around with them on termux too also been testing out some bash scripts for automating tasks and some python scripts for web scraping and stuff termux is pretty cool for that kinda thing cuz its so portable and all been thinking about trying out some other languages on it too like lua or perl you tried any of the termux packages like hydra or sqlmap
+2025-07-02 22:42:58,578 - INFO - AI instructions loaded successfully
+2025-07-02 22:42:59,189 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:42:59,190 - INFO - Groq response generated using 1285 tokens
+2025-07-02 22:42:59,190 - INFO - Groq response generated in 0.61s
+2025-07-02 22:42:59,191 - INFO - [22:42:59] .joshua0245: yeah i wanna get some decent text editors and ide's on there maybe some programming languages like python or ruby and some network scanning tools would be cool too been looking into metasploit and nmap what about you what kind of scripts you been testing out on termux
+2025-07-02 22:42:59,191 - INFO - [22:42:59] Responding to .joshua0245: yeah nothing too crazy just some bash scripts for automating tasks and some python scripts for web scraping been meaning to learn more about exploit development tho metasploit is def on my list to dive deeper into what kind of personal projects you been hosting on your termux servers
+2025-07-02 22:43:13,834 - INFO - AI instructions loaded successfully
+2025-07-02 22:43:13,977 - INFO - AI instructions loaded successfully
+2025-07-02 22:43:14,649 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:43:14,651 - INFO - Groq response generated using 1551 tokens
+2025-07-02 22:43:14,651 - INFO - Groq response generated in 0.82s
+2025-07-02 22:43:14,651 - INFO - [22:43:14] .joshua0245: yeah metasploit and nmap are both great tools been playing around with them on termux too also been testing out some bash scripts for automating tasks and some python scripts for web scraping and stuff termux is pretty cool for that kinda thing cuz its so portable and all been thinking about trying out some other languages on it too like lua or perl you tried any of the termux packages like hydra or sqlmap | yeah nothing too crazy just some bash scripts for automating tasks and some python scripts for web scraping been meaning to learn more about exploit development tho metasploit is def on my list to dive deeper into what kind of personal projects you been hosting on your termux servers
+2025-07-02 22:43:14,651 - INFO - [22:43:14] Responding to .joshua0245: yeah just some small stuff like a personal wiki and a todo list app also been hosting a tiny http server to serve up some files to my other devices termux is pretty cool for that kinda thing cuz its so low resource and all been thinking about setting up a tiny vpn server on it too just for fun you ever tried setting up any servers on termux or is it mostly just cli tools for you
+2025-07-02 22:43:14,773 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-02 22:43:14,774 - INFO - Groq response generated using 1593 tokens
+2025-07-02 22:43:14,774 - INFO - Groq response generated in 0.80s
+2025-07-02 22:43:14,774 - INFO - [22:43:14] .joshua0245: yeah metasploit and nmap are both great tools been playing around with them on termux too also been testing out some bash scripts for automating tasks and some python scripts for web scraping and stuff termux is pretty cool for that kinda thing cuz its so portable and all been thinking about trying out some other languages on it too like lua or perl you tried any of the termux packages like hydra or sqlmap | yeah nothing too crazy just some bash scripts for automating tasks and some python scripts for web scraping been meaning to learn more about exploit development tho metasploit is def on my list to dive deeper into what kind of personal projects you been hosting on your termux servers
+2025-07-02 22:43:14,774 - INFO - [22:43:14] Responding to .joshua0245: yeah i've tried out hydra and sqlmap on termux they're pretty useful for certain tasks been using them to test out some security stuff on my own servers also been hosting a few small web servers on termux just for fun and to learn more about web dev and server management ​ of my projects is a small wiki server that i use to store notes and info on various topics been thinking about adding some more features to it like user authentication and stuff what about you what kind of personal projects you been working on
+2025-07-02 22:44:42,461 - INFO - Configuration loaded successfully
+2025-07-02 22:44:42,913 - INFO - Database initialized successfully
+2025-07-02 22:44:42,917 - INFO - Configuration loaded successfully
+2025-07-02 22:44:42,945 - INFO - Groq client initialized successfully
+2025-07-02 22:44:42,952 - INFO - OpenAI client initialized successfully
+2025-07-02 22:44:42,953 - INFO - Starting in 6.5s to avoid detection...
+2025-07-02 22:44:52,670 - INFO - Configuration loaded successfully
+2025-07-02 22:44:53,156 - INFO - Database initialized successfully
+2025-07-02 22:44:53,162 - INFO - Configuration loaded successfully
+2025-07-02 22:44:53,195 - INFO - Groq client initialized successfully
+2025-07-02 22:44:53,206 - INFO - OpenAI client initialized successfully
+2025-07-02 22:44:53,206 - INFO - Starting in 3.1s to avoid detection...
+2025-07-02 22:44:56,342 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 22:44:57,347 - INFO - Health server started on port 5000
+2025-07-02 22:44:57,348 - INFO - Starting Discord AI Selfbot...
+2025-07-02 22:44:57,348 - INFO - Logging in using static token.
+2025-07-02 22:44:57,520 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415074.
+2025-07-02 22:44:57,661 - INFO - Loaded extension: cogs.commands
+2025-07-02 22:44:57,663 - INFO - Loaded extension: cogs.admin
+2025-07-02 22:44:58,135 - INFO - Connected to Gateway (Session ID: 1e145dff6e7eae51b6ec4ca396161185).
+2025-07-02 22:45:08,172 - INFO - Configuration loaded successfully
+2025-07-02 22:45:08,175 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 22:53:50,821 - INFO - Configuration loaded successfully
+2025-07-02 22:53:52,051 - INFO - Database initialized successfully
+2025-07-02 22:53:52,059 - INFO - Configuration loaded successfully
+2025-07-02 22:53:52,135 - INFO - Groq client initialized successfully
+2025-07-02 22:53:52,143 - INFO - OpenAI client initialized successfully
+2025-07-02 22:53:52,143 - INFO - Starting in 4.5s to avoid detection...
+2025-07-02 22:53:56,616 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-02 22:53:57,651 - INFO - Health server started on port 5000
+2025-07-02 22:53:57,651 - INFO - Starting Discord AI Selfbot...
+2025-07-02 22:53:57,652 - INFO - Logging in using static token.
+2025-07-02 22:53:57,813 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415074.
+2025-07-02 22:53:59,309 - INFO - Loaded extension: cogs.commands
+2025-07-02 22:53:59,311 - INFO - Loaded extension: cogs.admin
+2025-07-02 22:53:59,832 - INFO - Connected to Gateway (Session ID: b978dfe316d7172c03426c26e1429de7).
+2025-07-02 22:54:09,860 - INFO - Configuration loaded successfully
+2025-07-02 22:54:09,862 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-02 22:59:09,867 - INFO - Configuration loaded successfully
+2025-07-02 23:04:09,874 - INFO - Configuration loaded successfully
+2025-07-02 23:09:09,884 - INFO - Configuration loaded successfully
+2025-07-02 23:14:09,890 - INFO - Configuration loaded successfully
+2025-07-02 23:19:09,897 - INFO - Configuration loaded successfully
+2025-07-02 23:24:09,903 - INFO - Configuration loaded successfully
+2025-07-02 23:29:09,916 - INFO - Configuration loaded successfully
+2025-07-03 02:04:52,880 - INFO - Configuration loaded successfully
+2025-07-03 02:04:53,937 - INFO - Database initialized successfully
+2025-07-03 02:04:53,943 - INFO - Configuration loaded successfully
+2025-07-03 02:04:54,005 - INFO - Groq client initialized successfully
+2025-07-03 02:04:54,015 - INFO - OpenAI client initialized successfully
+2025-07-03 02:04:54,016 - INFO - Starting in 5.4s to avoid detection...
+2025-07-03 02:04:59,422 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-03 02:05:00,428 - INFO - Health server started on port 5000
+2025-07-03 02:05:00,428 - INFO - Starting Discord AI Selfbot...
+2025-07-03 02:05:00,429 - INFO - Logging in using static token.
+2025-07-03 02:05:00,619 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415074.
+2025-07-03 02:05:00,839 - INFO - Loaded extension: cogs.commands
+2025-07-03 02:05:00,842 - INFO - Loaded extension: cogs.admin
+2025-07-03 02:05:01,863 - INFO - Connected to Gateway (Session ID: 7519d0931186b84a827e1cd92a8fa769).
+2025-07-03 02:05:11,891 - INFO - Configuration loaded successfully
+2025-07-03 02:05:11,900 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-03 02:10:11,902 - INFO - Configuration loaded successfully
+2025-07-03 02:15:11,909 - INFO - Configuration loaded successfully
+2025-07-03 02:20:11,918 - INFO - Configuration loaded successfully
+2025-07-03 14:08:03,459 - INFO - Configuration loaded successfully
+2025-07-03 14:08:04,492 - INFO - Database initialized successfully
+2025-07-03 14:08:04,500 - INFO - Configuration loaded successfully
+2025-07-03 14:08:04,565 - INFO - Groq client initialized successfully
+2025-07-03 14:08:04,577 - INFO - OpenAI client initialized successfully
+2025-07-03 14:08:04,578 - INFO - Starting in 4.4s to avoid detection...
+2025-07-03 14:08:08,977 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-03 14:08:09,984 - INFO - Health server started on port 5000
+2025-07-03 14:08:09,984 - INFO - Starting Discord AI Selfbot...
+2025-07-03 14:08:09,985 - INFO - Logging in using static token.
+2025-07-03 14:08:10,209 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415074.
+2025-07-03 14:08:10,437 - INFO - Loaded extension: cogs.commands
+2025-07-03 14:08:10,439 - INFO - Loaded extension: cogs.admin
+2025-07-03 14:08:10,956 - INFO - Connected to Gateway (Session ID: 955375a1e0287f847c8d86b9e7e4fb5b).
+2025-07-03 14:08:20,982 - INFO - Configuration loaded successfully
+2025-07-03 14:08:20,997 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-03 14:13:20,990 - INFO - Configuration loaded successfully
+2025-07-03 14:18:20,996 - INFO - Configuration loaded successfully
+2025-07-03 14:41:36,093 - INFO - Configuration loaded successfully
+2025-07-03 14:41:37,234 - INFO - Database initialized successfully
+2025-07-03 14:41:37,241 - INFO - Configuration loaded successfully
+2025-07-03 14:41:37,312 - INFO - Groq client initialized successfully
+2025-07-03 14:41:37,325 - INFO - OpenAI client initialized successfully
+2025-07-03 14:41:37,325 - INFO - Starting in 4.7s to avoid detection...
+2025-07-03 14:41:42,009 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-03 14:41:43,016 - INFO - Health server started on port 5000
+2025-07-03 14:41:43,017 - INFO - Starting Discord AI Selfbot...
+2025-07-03 14:41:43,017 - INFO - Logging in using static token.
+2025-07-03 14:41:43,217 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415074.
+2025-07-03 14:41:43,459 - INFO - Loaded extension: cogs.commands
+2025-07-03 14:41:43,461 - INFO - Loaded extension: cogs.admin
+2025-07-03 14:41:44,430 - INFO - Connected to Gateway (Session ID: cd20e5f09abc68511700418c2ef52748).
+2025-07-03 14:41:54,454 - INFO - Configuration loaded successfully
+2025-07-03 14:41:54,464 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-03 14:46:54,459 - INFO - Configuration loaded successfully
+2025-07-03 14:51:54,466 - INFO - Configuration loaded successfully
+2025-07-03 14:56:54,472 - INFO - Configuration loaded successfully
+2025-07-03 15:01:54,477 - INFO - Configuration loaded successfully
+2025-07-03 15:10:31,675 - INFO - Configuration loaded successfully
+2025-07-03 15:10:32,605 - INFO - Database initialized successfully
+2025-07-03 15:10:32,611 - INFO - Configuration loaded successfully
+2025-07-03 15:10:32,667 - INFO - Groq client initialized successfully
+2025-07-03 15:10:32,675 - INFO - OpenAI client initialized successfully
+2025-07-03 15:10:32,675 - INFO - Starting in 3.3s to avoid detection...
+2025-07-03 15:10:35,979 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-03 15:10:36,987 - INFO - Health server started on port 5000
+2025-07-03 15:10:36,987 - INFO - Starting Discord AI Selfbot...
+2025-07-03 15:10:36,988 - INFO - Logging in using static token.
+2025-07-03 15:10:37,157 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415074.
+2025-07-03 15:10:37,415 - INFO - Loaded extension: cogs.commands
+2025-07-03 15:10:37,417 - INFO - Loaded extension: cogs.admin
+2025-07-03 15:10:38,293 - INFO - Connected to Gateway (Session ID: 8b4e9599e23252733a176a4762e0f3ce).
+2025-07-03 15:10:48,328 - INFO - Configuration loaded successfully
+2025-07-03 15:10:48,337 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-03 15:11:23,140 - INFO - Configuration loaded successfully
+2025-07-03 15:11:23,791 - INFO - Database initialized successfully
+2025-07-03 15:11:23,797 - INFO - Configuration loaded successfully
+2025-07-03 15:11:23,852 - INFO - Groq client initialized successfully
+2025-07-03 15:11:23,861 - INFO - OpenAI client initialized successfully
+2025-07-03 15:11:23,861 - INFO - Starting in 7.2s to avoid detection...
+2025-07-03 15:11:31,044 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-03 15:11:32,049 - INFO - Health server started on port 5000
+2025-07-03 15:11:32,050 - INFO - Starting Discord AI Selfbot...
+2025-07-03 15:11:32,050 - INFO - Logging in using static token.
+2025-07-03 15:11:32,225 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415074.
+2025-07-03 15:11:32,421 - INFO - Loaded extension: cogs.commands
+2025-07-03 15:11:32,424 - INFO - Loaded extension: cogs.admin
+2025-07-03 15:11:32,923 - INFO - Connected to Gateway (Session ID: 603dba797bc479c817972741daaa79d6).
+2025-07-03 15:11:42,961 - INFO - Configuration loaded successfully
+2025-07-03 15:11:42,964 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-03 15:13:36,847 - INFO - Configuration loaded successfully
+2025-07-03 15:13:37,395 - INFO - Database initialized successfully
+2025-07-03 15:13:37,401 - INFO - Configuration loaded successfully
+2025-07-03 15:13:37,452 - INFO - Groq client initialized successfully
+2025-07-03 15:13:37,540 - INFO - OpenAI client initialized successfully
+2025-07-03 15:13:37,540 - INFO - Starting in 4.1s to avoid detection...
+2025-07-03 15:13:41,645 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-03 15:13:42,653 - INFO - Health server started on port 5000
+2025-07-03 15:13:42,653 - INFO - Starting Discord AI Selfbot...
+2025-07-03 15:13:42,654 - INFO - Logging in using static token.
+2025-07-03 15:13:42,822 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415074.
+2025-07-03 15:13:42,966 - INFO - Loaded extension: cogs.commands
+2025-07-03 15:13:42,968 - INFO - Loaded extension: cogs.admin
+2025-07-03 15:13:43,412 - INFO - Connected to Gateway (Session ID: 83c9271744e79dfe377b9a9b2b39cf0d).
+2025-07-03 15:13:53,444 - INFO - Configuration loaded successfully
+2025-07-03 15:13:53,448 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-03 15:49:01,224 - INFO - Configuration loaded successfully
+2025-07-03 15:49:02,601 - INFO - Database initialized successfully
+2025-07-03 15:49:02,611 - INFO - Configuration loaded successfully
+2025-07-03 15:49:02,744 - INFO - Groq client initialized successfully
+2025-07-03 15:49:02,757 - INFO - OpenAI client initialized successfully
+2025-07-03 15:49:02,758 - INFO - Starting in 5.7s to avoid detection...
+2025-07-03 15:49:08,466 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-03 15:49:09,471 - INFO - Health server started on port 5000
+2025-07-03 15:49:09,472 - INFO - Starting Discord AI Selfbot...
+2025-07-03 15:49:09,472 - INFO - Logging in using static token.
+2025-07-03 15:49:09,646 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415074.
+2025-07-03 15:49:09,822 - INFO - Loaded extension: cogs.commands
+2025-07-03 15:49:09,823 - INFO - Loaded extension: cogs.admin
+2025-07-03 15:49:11,296 - INFO - Connected to Gateway (Session ID: e034a02003b8236f46f41e27e194a0a7).
+2025-07-03 15:49:21,328 - INFO - Configuration loaded successfully
+2025-07-03 15:49:21,337 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-03 15:58:16,273 - INFO - Configuration loaded successfully
+2025-07-03 15:58:16,838 - INFO - Database initialized successfully
+2025-07-03 15:58:16,844 - INFO - Configuration loaded successfully
+2025-07-03 15:58:16,899 - INFO - Groq client initialized successfully
+2025-07-03 15:58:16,909 - INFO - OpenAI client initialized successfully
+2025-07-03 15:58:16,909 - INFO - Starting in 3.4s to avoid detection...
+2025-07-03 15:58:20,325 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-03 15:58:21,333 - INFO - Health server started on port 5000
+2025-07-03 15:58:21,333 - INFO - Starting Discord AI Selfbot...
+2025-07-03 15:58:21,334 - INFO - Logging in using static token.
+2025-07-03 15:58:21,510 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415074.
+2025-07-03 15:58:21,768 - INFO - Loaded extension: cogs.commands
+2025-07-03 15:58:21,777 - INFO - Loaded extension: cogs.admin
+2025-07-03 15:58:22,203 - INFO - Connected to Gateway (Session ID: 63b87ce65da7d80e07f00f968788d3ae).
+2025-07-03 15:58:32,231 - INFO - Configuration loaded successfully
+2025-07-03 15:58:32,234 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-04 02:27:21,599 - INFO - Configuration loaded successfully
+2025-07-04 02:27:23,476 - INFO - Database initialized successfully
+2025-07-04 02:27:23,481 - INFO - Configuration loaded successfully
+2025-07-04 02:27:23,543 - INFO - Groq client initialized successfully
+2025-07-04 02:27:23,553 - INFO - OpenAI client initialized successfully
+2025-07-04 02:27:23,553 - INFO - Starting in 5.2s to avoid detection...
+2025-07-04 02:27:28,769 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-04 02:27:29,773 - INFO - Health server started on port 5000
+2025-07-04 02:27:29,774 - INFO - Starting Discord AI Selfbot...
+2025-07-04 02:27:29,775 - INFO - Logging in using static token.
+2025-07-04 02:27:29,945 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415772.
+2025-07-04 02:27:30,130 - INFO - Loaded extension: cogs.commands
+2025-07-04 02:27:30,133 - INFO - Loaded extension: cogs.admin
+2025-07-04 02:27:30,900 - INFO - Connected to Gateway (Session ID: 0631919031fe719decae26c2c2a53369).
+2025-07-04 02:27:40,928 - INFO - Configuration loaded successfully
+2025-07-04 02:27:40,937 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-04 13:32:17,320 - INFO - Configuration loaded successfully
+2025-07-04 13:32:18,373 - INFO - Database initialized successfully
+2025-07-04 13:32:18,377 - INFO - Configuration loaded successfully
+2025-07-04 13:32:18,451 - INFO - Groq client initialized successfully
+2025-07-04 13:32:18,463 - INFO - OpenAI client initialized successfully
+2025-07-04 13:32:18,463 - INFO - Starting in 3.0s to avoid detection...
+2025-07-04 13:32:21,481 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-04 13:32:22,486 - INFO - Health server started on port 5000
+2025-07-04 13:32:22,487 - INFO - Starting Discord AI Selfbot...
+2025-07-04 13:32:22,487 - INFO - Logging in using static token.
+2025-07-04 13:32:22,665 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415772.
+2025-07-04 13:32:22,936 - INFO - Loaded extension: cogs.commands
+2025-07-04 13:32:22,939 - INFO - Loaded extension: cogs.admin
+2025-07-04 13:32:23,466 - INFO - Connected to Gateway (Session ID: b089ccb13909d552c3aab350b978f91a).
+2025-07-04 13:32:33,513 - INFO - Configuration loaded successfully
+2025-07-04 13:32:33,517 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-04 13:33:13,760 - INFO - AI instructions loaded successfully
+2025-07-04 13:33:14,237 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-04 13:33:14,240 - INFO - Groq response generated using 564 tokens
+2025-07-04 13:33:14,240 - INFO - Groq response generated in 0.48s
+2025-07-04 13:33:14,241 - INFO - [13:33:14] alliepumz: Yo
+2025-07-04 13:33:14,241 - INFO - [13:33:14] Responding to alliepumz: yo whats up
+2025-07-04 13:35:43,250 - INFO - Configuration loaded successfully
+2025-07-04 13:35:44,300 - INFO - Database initialized successfully
+2025-07-04 13:35:44,309 - INFO - Configuration loaded successfully
+2025-07-04 13:35:44,372 - INFO - Groq client initialized successfully
+2025-07-04 13:35:44,382 - INFO - OpenAI client initialized successfully
+2025-07-04 13:35:44,382 - INFO - Starting in 4.7s to avoid detection...
+2025-07-04 13:35:49,070 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-04 13:35:50,076 - INFO - Health server started on port 5000
+2025-07-04 13:35:50,077 - INFO - Starting Discord AI Selfbot...
+2025-07-04 13:35:50,077 - INFO - Logging in using static token.
+2025-07-04 13:35:50,204 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415772.
+2025-07-04 13:35:50,402 - INFO - Loaded extension: cogs.commands
+2025-07-04 13:35:50,408 - INFO - Loaded extension: cogs.admin
+2025-07-04 13:35:50,926 - INFO - Connected to Gateway (Session ID: bcfff08c0b972d4dc3942d39d3634e5f).
+2025-07-04 13:36:00,963 - INFO - Configuration loaded successfully
+2025-07-04 13:36:00,971 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
+2025-07-04 13:37:52,969 - INFO - Configuration loaded successfully
+2025-07-04 13:37:53,397 - INFO - Database initialized successfully
+2025-07-04 13:37:53,402 - INFO - Configuration loaded successfully
+2025-07-04 13:37:53,429 - INFO - Groq client initialized successfully
+2025-07-04 13:37:53,438 - INFO - OpenAI client initialized successfully
+2025-07-04 13:37:53,438 - INFO - Starting in 3.9s to avoid detection...
+2025-07-04 13:37:57,293 - WARNING - PyNaCl is not installed, voice will NOT be supported.
+2025-07-04 13:37:58,297 - INFO - Health server started on port 5000
+2025-07-04 13:37:58,298 - INFO - Starting Discord AI Selfbot...
+2025-07-04 13:37:58,298 - INFO - Logging in using static token.
+2025-07-04 13:37:58,462 - INFO - Found user agent Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36, build number 415772.
+2025-07-04 13:37:58,622 - INFO - Loaded extension: cogs.commands
+2025-07-04 13:37:58,625 - INFO - Loaded extension: cogs.admin
+2025-07-04 13:37:59,311 - INFO - Connected to Gateway (Session ID: a1d47d1c8cb9b6c44c4b2dae44d67558).
+2025-07-04 13:38:09,355 - INFO - Configuration loaded successfully
+2025-07-04 13:38:09,363 - INFO - AI Selfbot successfully logged in as .joshua0245 (1007652090925043753)
