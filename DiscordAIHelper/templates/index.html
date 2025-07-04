@@ -1,0 +1,799 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Discord AI Selfbot Dashboard</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        .card {
+            border: none;
+            box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,0.075);
+        }
+        .status-indicator {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            display: inline-block;
+            margin-right: 5px;
+        }
+        .status-online { background-color: #28a745; }
+        .status-offline { background-color: #dc3545; }
+        .log-container {
+            max-height: 400px;
+            overflow-y: auto;
+            background-color: #f8f9fa;
+            border-radius: 0.375rem;
+            padding: 1rem;
+            font-family: 'Courier New', monospace;
+        }
+        .log-entry {
+            margin-bottom: 0.5rem;
+            padding: 0.25rem;
+            border-radius: 0.25rem;
+        }
+        .log-info { background-color: #d1ecf1; }
+        .log-warning { background-color: #fff3cd; }
+        .log-error { background-color: #f8d7da; }
+        .form-control:focus {
+            border-color: #86b7fe;
+            box-shadow: 0 0 0 0.25rem rgba(13, 110, 253, 0.25);
+        }
+        .nav-tabs .nav-link.active {
+            background-color: #495057;
+            border-color: #495057;
+            color: white;
+        }
+        .progress-bar {
+            transition: width 0.6s ease;
+        }
+        .toast {
+            position: fixed;
+            top: 20px;
+            right: 20px;
+            z-index: 1050;
+        }
+    </style>
+</head>
+<body class="bg-light">
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Header -->
+            <div class="col-12">
+                <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                    <div class="container-fluid">
+                        <a class="navbar-brand" href="#">
+                            <i class="fas fa-robot"></i> Discord AI Selfbot Dashboard
+                        </a>
+                        <div class="navbar-nav ms-auto">
+                            <span class="navbar-text">
+                                <span id="bot-status" class="status-indicator status-offline"></span>
+                                <span id="bot-status-text">Offline</span>
+                            </span>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+
+        <div class="row mt-4">
+            <!-- Configuration Panel -->
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header bg-primary text-white">
+                        <h5 class="mb-0"><i class="fas fa-cog"></i> Bot Configuration</h5>
+                    </div>
+                    <div class="card-body">
+                        <form id="config-form">
+                            <div class="mb-3">
+                                <label for="discord-token" class="form-label">Discord Token</label>
+                                <input type="password" class="form-control" id="discord-token" required>
+                                <div class="form-text">Your Discord user token</div>
+                            </div>
+                            <div class="mb-3">
+                                <label for="groq-api-key" class="form-label">Groq API Key</label>
+                                <input type="password" class="form-control" id="groq-api-key" required>
+                                <div class="form-text">Primary AI provider (free tier available)</div>
+                            </div>
+                            <div class="mb-3">
+                                <label for="openai-api-key" class="form-label">OpenAI API Key (Optional)</label>
+                                <input type="password" class="form-control" id="openai-api-key">
+                                <div class="form-text">Fallback AI provider</div>
+                            </div>
+                            <div class="mb-3">
+                                <label for="owner-id" class="form-label">Owner ID</label>
+                                <input type="number" class="form-control" id="owner-id" required>
+                                <div class="form-text">Your Discord user ID</div>
+                            </div>
+                            <div class="mb-3">
+                                <label for="prefix" class="form-label">Command Prefix</label>
+                                <input type="text" class="form-control" id="prefix" value="." maxlength="1">
+                            </div>
+                            <div class="mb-3">
+                                <label for="trigger" class="form-label">Trigger Mode</label>
+                                <select class="form-select" id="trigger">
+                                    <option value="everyone">Everyone</option>
+                                    <option value="dm">DM Only</option>
+                                    <option value="mention">Mention Only</option>
+                                </select>
+                            </div>
+                            <div class="mb-3">
+                                <label for="error-webhook-url" class="form-label">Error Webhook URL (Optional)</label>
+                                <input type="url" class="form-control" id="error-webhook-url">
+                                <div class="form-text">Discord webhook for error notifications</div>
+                            </div>
+                            <div class="d-flex gap-2">
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="fas fa-save"></i> Save Configuration
+                                </button>
+                                <button type="button" id="reload-config" class="btn btn-outline-secondary">
+                                    <i class="fas fa-sync"></i> Reload Config
+                                </button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Status Panel -->
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header bg-success text-white">
+                        <h5 class="mb-0"><i class="fas fa-chart-line"></i> System Status</h5>
+                    </div>
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-6">
+                                <div class="mb-3">
+                                    <label class="form-label">Bot Status</label>
+                                    <div class="d-flex align-items-center">
+                                        <span id="status-bot" class="status-indicator status-offline"></span>
+                                        <span id="status-bot-text">Offline</span>
+                                    </div>
+                                </div>
+                                <div class="mb-3">
+                                    <label class="form-label">AI Status</label>
+                                    <div class="d-flex align-items-center">
+                                        <span id="status-ai" class="status-indicator status-offline"></span>
+                                        <span id="status-ai-text">Not Connected</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="mb-3">
+                                    <label class="form-label">CPU Usage</label>
+                                    <div class="progress" style="height: 20px;">
+                                        <div id="cpu-progress" class="progress-bar" role="progressbar" style="width: 0%">0%</div>
+                                    </div>
+                                    <small class="text-muted" id="cpu-details">Cores: 0 | Freq: 0 MHz</small>
+                                </div>
+                                <div class="mb-3">
+                                    <label class="form-label">Memory Usage</label>
+                                    <div class="progress" style="height: 20px;">
+                                        <div id="memory-progress" class="progress-bar" role="progressbar" style="width: 0%">0%</div>
+                                    </div>
+                                    <small class="text-muted" id="memory-details">0 GB / 0 GB</small>
+                                </div>
+                                <div class="mb-3">
+                                    <label class="form-label">Process Memory</label>
+                                    <div class="progress" style="height: 15px;">
+                                        <div id="process-memory-progress" class="progress-bar bg-info" role="progressbar" style="width: 0%">0 MB</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="row mt-3">
+                            <div class="col-6">
+                                <button id="start-bot" class="btn btn-success w-100">
+                                    <i class="fas fa-play"></i> Start Bot
+                                </button>
+                            </div>
+                            <div class="col-6">
+                                <button id="stop-bot" class="btn btn-danger w-100">
+                                    <i class="fas fa-stop"></i> Stop Bot
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Logs Panel -->
+        <div class="row mt-4">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header bg-info text-white">
+                        <h5 class="mb-0"><i class="fas fa-terminal"></i> Bot Logs</h5>
+                    </div>
+                    <div class="card-body">
+                        <div id="logs-container" class="log-container">
+                            <div class="text-muted">No logs yet. Start the bot to see logs.</div>
+                        </div>
+                        <div class="mt-3">
+                            <button id="clear-logs" class="btn btn-outline-secondary">
+                                <i class="fas fa-trash"></i> Clear Logs
+                            </button>
+                            <button id="refresh-logs" class="btn btn-outline-primary">
+                                <i class="fas fa-refresh"></i> Refresh
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Message Control Panel -->
+        <div class="row mt-4">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header bg-secondary text-white">
+                        <h5 class="mb-0"><i class="fas fa-paper-plane"></i> Send Message</h5>
+                    </div>
+                    <div class="card-body">
+                        <form id="message-form">
+                            <div class="mb-3">
+                                <label for="channel-select" class="form-label">Select Channel</label>
+                                <select class="form-select" id="channel-select" required>
+                                    <option value="">Loading channels...</option>
+                                </select>
+                            </div>
+                            <div class="mb-3">
+                                <label for="message-text" class="form-label">Message</label>
+                                <textarea class="form-control" id="message-text" rows="3" required placeholder="Type your message here..."></textarea>
+                            </div>
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fas fa-paper-plane"></i> Send Message
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header bg-secondary text-white">
+                        <h5 class="mb-0"><i class="fas fa-plus-circle"></i> Join Server & Commands</h5>
+                    </div>
+                    <div class="card-body">
+                        <form id="server-form" class="mb-4">
+                            <div class="mb-3">
+                                <label for="invite-url" class="form-label">Discord Server Invite</label>
+                                <input type="url" class="form-control" id="invite-url" required placeholder="https://discord.gg/invite-code">
+                            </div>
+                            <button type="submit" class="btn btn-success">
+                                <i class="fas fa-plus-circle"></i> Join Server
+                            </button>
+                        </form>
+
+                        <hr>
+
+                        <form id="command-form">
+                            <div class="mb-3">
+                                <label for="command-text" class="form-label">Execute Command</label>
+                                <input type="text" class="form-control" id="command-text" required placeholder="~help, ~ping, ~status, etc.">
+                                <div class="form-text">Use ~ as prefix (e.g., ~help, ~ping)</div>
+                            </div>
+                            <button type="submit" class="btn btn-primary">
+                                <i class="fas fa-terminal"></i> Execute Command
+                            </button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Errors Panel -->
+        <div class="row mt-4">
+            <div class="col-12">
+                <div class="card">
+                    <div class="card-header bg-warning text-white">
+                        <h5 class="mb-0"><i class="fas fa-exclamation-triangle"></i> Recent Errors</h5>
+                    </div>
+                    <div class="card-body">
+                        <div id="errors-container">
+                            <div class="text-muted">No errors recorded.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Container -->
+    <div class="toast-container position-fixed top-0 end-0 p-3">
+        <div id="toast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+            <div class="toast-header">
+                <i class="fas fa-info-circle me-2"></i>
+                <strong class="me-auto">Notification</strong>
+                <button type="button" class="btn-close" data-bs-dismiss="toast"></button>
+            </div>
+            <div class="toast-body"></div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+    <script>
+        // WebSocket connection
+        const socket = io();
+        
+        // Toast helper
+        function showToast(message, type = 'info') {
+            const toast = document.getElementById('toast');
+            const toastBody = toast.querySelector('.toast-body');
+            const toastHeader = toast.querySelector('.toast-header');
+            
+            toastBody.textContent = message;
+            toastHeader.className = `toast-header bg-${type} text-white`;
+            
+            const bsToast = new bootstrap.Toast(toast);
+            bsToast.show();
+        }
+        
+        // Load configuration
+        function loadConfig() {
+            fetch('/api/config')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        // Don't populate sensitive fields for security
+                        document.getElementById('owner-id').value = data.config.bot.owner_id || '';
+                        document.getElementById('prefix').value = data.config.bot.prefix || '.';
+                        document.getElementById('trigger').value = data.config.bot.trigger || 'everyone';
+                    }
+                })
+                .catch(error => {
+                    console.error('Error loading config:', error);
+                });
+        }
+        
+        // Save configuration
+        document.getElementById('config-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const formData = {
+                discord_token: document.getElementById('discord-token').value,
+                groq_api_key: document.getElementById('groq-api-key').value,
+                openai_api_key: document.getElementById('openai-api-key').value,
+                owner_id: document.getElementById('owner-id').value,
+                prefix: document.getElementById('prefix').value,
+                trigger: document.getElementById('trigger').value,
+                error_webhook_url: document.getElementById('error-webhook-url').value
+            };
+            
+            fetch('/api/config', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(formData)
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    showToast('Configuration saved successfully!', 'success');
+                } else {
+                    showToast(data.error || 'Failed to save configuration', 'danger');
+                }
+            })
+            .catch(error => {
+                console.error('Error saving config:', error);
+                showToast('Error saving configuration', 'danger');
+            });
+        });
+        
+        // Start bot
+        document.getElementById('start-bot').addEventListener('click', function() {
+            this.disabled = true;
+            this.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Starting...';
+            
+            fetch('/api/bot/start', { method: 'POST' })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        showToast('Bot started successfully!', 'success');
+                        updateStatus();
+                    } else {
+                        showToast(data.error || 'Failed to start bot', 'danger');
+                    }
+                })
+                .catch(error => {
+                    console.error('Error starting bot:', error);
+                    showToast('Error starting bot', 'danger');
+                })
+                .finally(() => {
+                    this.disabled = false;
+                    this.innerHTML = '<i class="fas fa-play"></i> Start Bot';
+                });
+        });
+        
+        // Stop bot
+        document.getElementById('stop-bot').addEventListener('click', function() {
+            this.disabled = true;
+            this.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Stopping...';
+            
+            fetch('/api/bot/stop', { method: 'POST' })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        showToast('Bot stopped successfully!', 'success');
+                        updateStatus();
+                    } else {
+                        showToast(data.error || 'Failed to stop bot', 'danger');
+                    }
+                })
+                .catch(error => {
+                    console.error('Error stopping bot:', error);
+                    showToast('Error stopping bot', 'danger');
+                })
+                .finally(() => {
+                    this.disabled = false;
+                    this.innerHTML = '<i class="fas fa-stop"></i> Stop Bot';
+                });
+        });
+        
+        // Update status
+        function updateStatus() {
+            fetch('/api/status')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        // Bot status
+                        const botStatus = data.bot_status.running;
+                        document.getElementById('bot-status').className = `status-indicator ${botStatus ? 'status-online' : 'status-offline'}`;
+                        document.getElementById('bot-status-text').textContent = botStatus ? 'Online' : 'Offline';
+                        document.getElementById('status-bot').className = `status-indicator ${botStatus ? 'status-online' : 'status-offline'}`;
+                        document.getElementById('status-bot-text').textContent = botStatus ? 'Online' : 'Offline';
+                        
+                        // AI status
+                        const aiStatus = data.ai_status.groq_available || data.ai_status.openai_available;
+                        document.getElementById('status-ai').className = `status-indicator ${aiStatus ? 'status-online' : 'status-offline'}`;
+                        document.getElementById('status-ai-text').textContent = aiStatus ? 'Connected' : 'Not Connected';
+                        
+                        // Enhanced System status
+                        const cpuPercent = data.system.cpu ? data.system.cpu.percent : 0;
+                        const memoryPercent = data.system.memory ? data.system.memory.percent : 0;
+                        
+                        document.getElementById('cpu-progress').style.width = cpuPercent + '%';
+                        document.getElementById('cpu-progress').textContent = cpuPercent.toFixed(1) + '%';
+                        
+                        // CPU details
+                        if (data.system.cpu) {
+                            const cpuCount = data.system.cpu.count || 0;
+                            const cpuFreq = data.system.cpu.freq ? data.system.cpu.freq.current : 0;
+                            document.getElementById('cpu-details').textContent = `Cores: ${cpuCount} | Freq: ${Math.round(cpuFreq)} MHz`;
+                        }
+                        
+                        document.getElementById('memory-progress').style.width = memoryPercent + '%';
+                        document.getElementById('memory-progress').textContent = memoryPercent.toFixed(1) + '%';
+                        
+                        // Memory details
+                        if (data.system.memory) {
+                            const formatBytes = (bytes) => {
+                                if (bytes === 0) return '0 B';
+                                const k = 1024;
+                                const sizes = ['B', 'KB', 'MB', 'GB'];
+                                const i = Math.floor(Math.log(bytes) / Math.log(k));
+                                return parseFloat((bytes / Math.pow(k, i)).toFixed(1)) + ' ' + sizes[i];
+                            };
+                            
+                            const memUsed = formatBytes(data.system.memory.used || 0);
+                            const memTotal = formatBytes(data.system.memory.total || 0);
+                            document.getElementById('memory-details').textContent = `${memUsed} / ${memTotal}`;
+                        }
+                        
+                        // Process Memory
+                        if (data.system.process) {
+                            const processMemory = data.system.process.memory_rss || 0;
+                            const processMemoryMB = Math.round(processMemory / 1024 / 1024);
+                            const totalMemory = data.system.memory ? data.system.memory.total : 1;
+                            const processMemoryPercent = ((processMemory / totalMemory) * 100).toFixed(1);
+                            
+                            if (document.getElementById('process-memory-progress')) {
+                                document.getElementById('process-memory-progress').style.width = processMemoryPercent + '%';
+                                document.getElementById('process-memory-progress').textContent = `${processMemoryMB} MB`;
+                            }
+                        }
+                    }
+                })
+                .catch(error => {
+                    console.error('Error updating status:', error);
+                });
+        }
+        
+        // Load logs
+        function loadLogs() {
+            fetch('/api/logs')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        displayLogs(data.logs);
+                    }
+                })
+                .catch(error => {
+                    console.error('Error loading logs:', error);
+                });
+        }
+        
+        // Display logs
+        function displayLogs(logs) {
+            const container = document.getElementById('logs-container');
+            
+            if (logs.length === 0) {
+                container.innerHTML = '<div class="text-muted">No logs yet. Start the bot to see logs.</div>';
+                return;
+            }
+            
+            container.innerHTML = logs.map(log => 
+                `<div class="log-entry log-${log.level.toLowerCase()}">
+                    <span class="text-muted">[${log.timestamp}]</span>
+                    <span class="fw-bold">${log.level}</span>
+                    <span>${log.message}</span>
+                </div>`
+            ).join('');
+            
+            // Auto-scroll to bottom
+            container.scrollTop = container.scrollHeight;
+        }
+        
+        // Load errors
+        function loadErrors() {
+            fetch('/api/errors')
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        displayErrors(data.errors);
+                    }
+                })
+                .catch(error => {
+                    console.error('Error loading errors:', error);
+                });
+        }
+        
+        // Display errors
+        function displayErrors(errors) {
+            const container = document.getElementById('errors-container');
+            
+            if (errors.length === 0) {
+                container.innerHTML = '<div class="text-muted">No errors recorded.</div>';
+                return;
+            }
+            
+            container.innerHTML = errors.map(error => 
+                `<div class="alert alert-warning">
+                    <div class="d-flex justify-content-between align-items-start">
+                        <div>
+                            <strong>${error.error_type}</strong>
+                            <p class="mb-1">${error.error_message}</p>
+                            <small class="text-muted">${error.timestamp}</small>
+                        </div>
+                    </div>
+                </div>`
+            ).join('');
+        }
+        
+        // Clear logs
+        document.getElementById('clear-logs').addEventListener('click', function() {
+            document.getElementById('logs-container').innerHTML = '<div class="text-muted">Logs cleared.</div>';
+        });
+        
+        // Refresh logs
+        document.getElementById('refresh-logs').addEventListener('click', function() {
+            loadLogs();
+        });
+        
+        // WebSocket events
+        socket.on('new_log', function(log) {
+            const container = document.getElementById('logs-container');
+            const logEntry = document.createElement('div');
+            logEntry.className = `log-entry log-${log.level.toLowerCase()}`;
+            logEntry.innerHTML = `
+                <span class="text-muted">[${log.timestamp}]</span>
+                <span class="fw-bold">${log.level}</span>
+                <span>${log.message}</span>
+            `;
+            container.appendChild(logEntry);
+            
+            // Remove old logs if too many
+            const logs = container.querySelectorAll('.log-entry');
+            if (logs.length > 100) {
+                logs[0].remove();
+            }
+            
+            // Auto-scroll to bottom
+            container.scrollTop = container.scrollHeight;
+        });
+        
+        // Load channels
+        function loadChannels() {
+            fetch('/api/channels')
+                .then(response => response.json())
+                .then(data => {
+                    const select = document.getElementById('channel-select');
+                    if (data.success) {
+                        select.innerHTML = '<option value="">Select a channel...</option>';
+                        data.channels.forEach(channel => {
+                            const option = document.createElement('option');
+                            option.value = channel.id;
+                            option.textContent = `${channel.name} (${channel.guild})`;
+                            select.appendChild(option);
+                        });
+                    } else {
+                        select.innerHTML = '<option value="">Bot not running or no channels available</option>';
+                    }
+                })
+                .catch(error => {
+                    console.error('Error loading channels:', error);
+                    document.getElementById('channel-select').innerHTML = '<option value="">Error loading channels</option>';
+                });
+        }
+        
+        // Send message
+        document.getElementById('message-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const button = this.querySelector('button[type="submit"]');
+            const originalText = button.innerHTML;
+            button.disabled = true;
+            button.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Sending...';
+            
+            const formData = {
+                channel_id: document.getElementById('channel-select').value,
+                message: document.getElementById('message-text').value
+            };
+            
+            fetch('/api/send_message', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(formData)
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    showToast('Message sent successfully!', 'success');
+                    document.getElementById('message-text').value = '';
+                } else {
+                    showToast(data.error || 'Failed to send message', 'danger');
+                }
+            })
+            .catch(error => {
+                console.error('Error sending message:', error);
+                showToast('Error sending message', 'danger');
+            })
+            .finally(() => {
+                button.disabled = false;
+                button.innerHTML = originalText;
+            });
+        });
+        
+        // Join server
+        document.getElementById('server-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const button = this.querySelector('button[type="submit"]');
+            const originalText = button.innerHTML;
+            button.disabled = true;
+            button.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Joining...';
+            
+            const formData = {
+                invite_url: document.getElementById('invite-url').value
+            };
+            
+            fetch('/api/join_server', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(formData)
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    showToast(data.message || 'Successfully joined server!', 'success');
+                    document.getElementById('invite-url').value = '';
+                    // Reload channels after joining
+                    setTimeout(loadChannels, 2000);
+                } else {
+                    showToast(data.error || 'Failed to join server', 'danger');
+                }
+            })
+            .catch(error => {
+                console.error('Error joining server:', error);
+                showToast('Error joining server', 'danger');
+            })
+            .finally(() => {
+                button.disabled = false;
+                button.innerHTML = originalText;
+            });
+        });
+        
+        // Execute command
+        document.getElementById('command-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const button = this.querySelector('button[type="submit"]');
+            const originalText = button.innerHTML;
+            button.disabled = true;
+            button.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Executing...';
+            
+            const formData = {
+                command: document.getElementById('command-text').value,
+                channel_id: document.getElementById('channel-select').value || null
+            };
+            
+            fetch('/api/execute_command', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(formData)
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    showToast('Command executed successfully!', 'success');
+                    document.getElementById('command-text').value = '';
+                } else {
+                    showToast(data.error || 'Failed to execute command', 'danger');
+                }
+            })
+            .catch(error => {
+                console.error('Error executing command:', error);
+                showToast('Error executing command', 'danger');
+            })
+            .finally(() => {
+                button.disabled = false;
+                button.innerHTML = originalText;
+            });
+        });
+        
+        // Configuration reload
+        document.getElementById('reload-config').addEventListener('click', function() {
+            const button = this;
+            const originalText = button.innerHTML;
+            button.disabled = true;
+            button.innerHTML = '<i class="fas fa-spinner fa-spin"></i> Reloading...';
+            
+            fetch('/api/config/reload', {
+                method: 'POST'
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.success) {
+                    showToast('Configuration reloaded successfully!', 'success');
+                    // Reload the page config
+                    setTimeout(() => {
+                        loadConfig();
+                    }, 500);
+                } else {
+                    showToast(data.error || 'Failed to reload configuration', 'danger');
+                }
+            })
+            .catch(error => {
+                console.error('Error reloading config:', error);
+                showToast('Error reloading configuration', 'danger');
+            })
+            .finally(() => {
+                button.disabled = false;
+                button.innerHTML = originalText;
+            });
+        });
+        
+        // Initial load
+        loadConfig();
+        updateStatus();
+        loadLogs();
+        loadErrors();
+        loadChannels();
+        
+        // Update status periodically
+        setInterval(updateStatus, 5000);
+        setInterval(loadErrors, 30000);
+        setInterval(loadChannels, 30000);
+    </script>
+</body>
+</html>
